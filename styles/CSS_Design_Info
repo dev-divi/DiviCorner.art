@@ -1,0 +1,9 @@
+I have borrowed some things from next/learn in utils.module.css 
+
+but I want my css structure to be:  
+
+globals.css - unused 
+Home.module.css - only for index.js 
+Writings.js - only for posts 
+
+layout.module.css - sitewide css 
