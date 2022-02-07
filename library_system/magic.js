@@ -7,7 +7,7 @@ import html from 'remark-html'
 
 //If I change the postdirectory here, I need to create the folder in pages with [id].js 
 //I also need to change the import directory to this file's new name in [id.js]
-const postsDirectory = path.join(process.cwd(), 'magic')
+const postsDirectory = path.join(process.cwd(), 'Magic')
 
 export function getSortedPostsData() {
   // Get file names under /posts
