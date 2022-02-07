@@ -6,7 +6,7 @@ import React, {useState} from 'react';
 import SiteTexts from './MainSite/SiteTexts';
 import SiteBook from './MainSite/SiteBook';
 import SiteLazer from './MainSite/SiteLazer';
-import SiteLetters from './MainSite/SiteLetters';
+//import SiteLetters from './MainSite/SiteLetters';
 
 
 import utilStyles from '../styles/utils.module.css';
@@ -61,6 +61,7 @@ function Book(){
     }
   </React.Fragment>)
   }        
+  {/*
   function Letters(){
     const [showDetail,setShowDetail] = useState(false);
     const handleToggle = () => setShowDetail(!showDetail);
@@ -74,6 +75,7 @@ function Book(){
       }
     </React.Fragment>)
     }
+  */} 
     function TextsBak(){
       //const [showDetail,setShowDetail] = useState(false);
       //const handleToggle = () => setShowDetail(!showDetail);
