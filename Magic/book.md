@@ -4,6 +4,9 @@ title: "The Magic of Potentiality"
 date: "2021-12-18"
 ---
 
+
+_[Get it on Amazon - The Magic of Potentiality : The 10 page Creation Cookbook. Kindle Edition](https://www.amazon.com/Magic-Potentiality-page-Creation-Cookbook-ebook/dp/B09NTT8PN1)_
+
 This text may be passed from one to another. 
 
 -What this is  
@@ -296,5 +299,3 @@ to yourself, this is not you.
 
 You are the potential for all of these things,  
 You are the magic of possibility.  
-
-[Amazon - The Magic of Potentiality : The 10 page Creation Cookbook. Kindle Edition](https://www.amazon.com/Magic-Potentiality-page-Creation-Cookbook-ebook/dp/B09NTT8PN1)

@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/divenie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://divenie.com
+  * I am divenie (https://keybase.io/divenie) on keybase.
+  * I have a public key ASDDWCQWqLLFwz0nfOByuIUk2kMNQLPw-mYPd_4PH_Ix8wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c3582416a8b2c5c33d277ce072b88524da430d40b3f0fa660f77fe0f1ff231f30a",
+      "host": "keybase.io",
+      "kid": "0120c3582416a8b2c5c33d277ce072b88524da430d40b3f0fa660f77fe0f1ff231f30a",
+      "uid": "e13e725255b785e9ff1576172d15e319",
+      "username": "divenie"
+    },
+    "merkle_root": {
+      "ctime": 1644397320,
+      "hash": "acfa1427f64d2ef9b46d10f1a33bfc29e7f834ecebf55053108f9a360a30307683658cc26a8477ce7b555ceb147e2023dab33727fae56c4f7aad15a3062c5df8",
+      "hash_meta": "9a320705f857b490e573e90cf374b9945351558fb88dfad0bc8852f89e029a33",
+      "seqno": 21831632
+    },
+    "service": {
+      "entropy": "3IcHfFXelDl/iSl0FectFaiq",
+      "hostname": "divenie.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1644397329,
+  "expire_in": 504576000,
+  "prev": "0b5fbe5d593954f178a574f4cb75a66d8d4aac15e481326bc897417b9b23eef6",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw1gkFqiyxcM9J3zgcriFJNpDDUCz8PpmD3f+Dx/yMfMKp3BheWxvYWTESpcCBsQgC1++XVk5VPF4pXT0y3WmbY1KrBXkgTJryJdBe5sj7vbEIB+0pKb3aQ4/P5yFSh9OZnUAV9HR4hLxxlqdINlekFUTAgHCo3NpZ8RAQn68ctlErH4HFoyfTEiIzCBtQri18F1uV9i6WmsNM4BgMTwxGtbAyNya9C+wOh8K1it/v8hbmoMtYrP8z6miCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP7VAr4tQk2Id2s3YQueeOFNQNaaV5zrz7s3BOssFUf1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/divenie
+
+==================================================================
