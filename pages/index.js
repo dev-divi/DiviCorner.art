@@ -100,7 +100,7 @@ export default function Home({ allPostsData }) {
 
 
       <p> 
-          <Lazer />
+          {/* <Lazer /> */} 
           <React.Fragment>
             <h3></h3>
             <span onClick={handleToggle}className={utilStyles.thepointer}>texts🟢  </span>
