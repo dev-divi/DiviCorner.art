@@ -23,7 +23,7 @@ body {
   zoom: 1;
   background-image: url("style_images/background.jpeg"); 
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat:repeat-y;
 }
 
 a {
