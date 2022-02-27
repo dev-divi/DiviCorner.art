@@ -65,7 +65,7 @@ And anyway we were just writing here by the side of a road and thinking about ho
 if only my own fears and the darkest desires in my self destructive heart weren't arising too!    
 Ah, we found that and we found meaning and we came to be    
 Disrupted, why    
-Was I supposed to stop,    
+Was I supposed to stop,    ceef643179bef246cbbda34bd892a48b
 You should stop writing shouldn't you you should be doing something else no?    
 Why are you so boring? Why aren't you being interesting? Why do you keep saying the same thoughts over and over? Why aren't you expanded? Why do you not play? Why won't you do more    
 Why won't you be better Why are you just being normal level And awoke and awake and how about the date    

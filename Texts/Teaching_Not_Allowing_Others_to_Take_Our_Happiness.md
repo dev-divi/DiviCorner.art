@@ -1,5 +1,5 @@
 ---
-category: "Teaching" 
+category: "Secrets" 
 title: "Regarding Not Allowing Others to Steal Your Happiness"
 date: "2022-02-02"
 ---

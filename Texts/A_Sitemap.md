@@ -5,7 +5,7 @@ date: "2022-01-01"
 ---
 
 
-Teachings - Sharing 
+Secrets - Sharing 
 
 Resources - Sharing 
 

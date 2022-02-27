@@ -1,5 +1,5 @@
 ---
-category: "Teaching" 
+category: "Secrets" 
 title: "Kill a cold"
 date: "2022-02-02"
 ---

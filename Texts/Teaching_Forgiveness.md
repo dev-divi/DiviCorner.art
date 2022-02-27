@@ -1,5 +1,5 @@
 ---
-category: "Teaching" 
+category: "Secrets" 
 title: "How to get rid of toxic bitterness hurting you"
 date: "2022-02-01"
 ---

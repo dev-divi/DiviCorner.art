@@ -1,5 +1,5 @@
 ---
-category: "Teaching" 
+category: "Secrets" 
 title: "Simple Depression"
 date: "2022-02-02"
 ---
