@@ -1,6 +1,6 @@
 ---
 category: "Thought" 
-title: "Faith_In_Myself"
+title: "Faith In Myself"
 date: "2022-01-27"
 ---
 
