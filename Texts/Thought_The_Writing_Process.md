@@ -26,7 +26,7 @@ I recently reencountered an article that must have been where I first learned of
 
 # Start 
 
-What is this I am feeling as I am here without the physical paper, what should I do  
+_What is this I am feeling as I am here without the physical paper, what should I do  
 should I give up  
 should I write in my mind?   
 Is that possible? Is it possible for me to do my morning freewriting in my own head?  
@@ -47,33 +47,33 @@ As the world crashed around me
 I was solid    
 I was secure    
 I found something    
-It opened up to me    
+It opened up to me_   
 
-and how nice this is, to clarify    
+_and how nice this is, to clarify    
 but this time is for the free writing and the letting go and so I write and I pray and I say and I stop trying to make pretty words because that is not the reason for being here and I am just trying to let out whatever pours out without an audience without a doubt and perhaps you'll forgive me perhaps you'll let me out perhaps this is temporary perhaps this will pass and perhaps I can breath and perhaps I will not repeat a word or just relax into a keyboard stroke and how I'd like to what would you like to do you're doing it, between the feeling of flow in tapping keys and the feeling of flow in moving ink what exactly is the difference because to me it is the same it is the same way we went ahead and discoursed and discussed and happened to walk wantder into meaning and blessing and wondering too and it could take a while there could be 
 a long way to go and I am still just tapping along and I don't have anywhere to go as long as I move forward and I had better rest as I type and focus on my breath and focus on these things that I enjoy in the moment whatever they were, can't remember and does it matter if I will remember again in a moment, the fear of silence is that I cannot remember, but if I do not fear forgetting, what have I to fear, after all, 
 when I am being in stillness, I require no thought or remembering at all, and look at how that thought registers as terrifying, as a threat, and look at how instincts have arisen, and I'm still writing, not trying to figure it all out, I don't need to write clearly or write better or write this way or that we are just moving forward we are just moving the keys we are just doing the work moving forward in the practice and listening to the soft sound of the tapping of keys and your words are too stale your words are not and all the thoughts and all the ideas and all the thoughts and the words and the words and the words and so many things I could capture and catch and I suppose as I write I just become more clear, the more clear I am the more without beer the more and here and there into skies and there stretching the imagination for a tune 
-and this is how I open my mind to the clarity and how its so worth it and that's interesting and how about that, and here I am eating wind and beating chest and breathing in and happening to be the best whether I want to or not I find myself in the prestine spot in my own life and there's really not a way out I have looked for the escape routes and so I am here in the eternal moment that carried me into meaning and I found the sacred flame,
+and this is how I open my mind to the clarity and how its so worth it and that's interesting and how about that, and here I am eating wind and beating chest and breathing in and happening to be the best whether I want to or not I find myself in the prestine spot in my own life and there's really not a way out I have looked for the escape routes and so I am here in the eternal moment that carried me into meaning and I found the sacred flame,_
 
-And I do want to meditate more on the eternal flame, I will probably do that today 
+_And I do want to meditate more on the eternal flame, I will probably do that today_ 
 
-I have come so far 
+_I have come so far_
 
-How about that! 
+_How about that!_
 
-And anyway we were just writing here by the side of a road and thinking about how difficult I found it to imagine good things in my mind, and how I have been told, it has been mentioned that it is actually better that I didn't imagine, that I should allow the divine mind to imagine for me and lead me into the perfect moment,    
+_And anyway we were just writing here by the side of a road and thinking about how difficult I found it to imagine good things in my mind, and how I have been told, it has been mentioned that it is actually better that I didn't imagine, that I should allow the divine mind to imagine for me and lead me into the perfect moment,    
 if only my own fears and the darkest desires in my self destructive heart weren't arising too!    
 Ah, we found that and we found meaning and we came to be    
 Disrupted, why    
 Was I supposed to stop,    ceef643179bef246cbbda34bd892a48b
 You should stop writing shouldn't you you should be doing something else no?    
 Why are you so boring? Why aren't you being interesting? Why do you keep saying the same thoughts over and over? Why aren't you expanded? Why do you not play? Why won't you do more    
-Why won't you be better Why are you just being normal level And awoke and awake and how about the date    
+Why won't you be better Why are you just being normal level And awoke and awake and how about the date_   
 
-how about the places we ran into when we came into being and we wanted to find meaning and I got    
-lost in the thoughts and it happened just as it were and I came into the stir and I found my way into a burr and you said to keep writing so I did and you said I'd be okay and so far that was true but what about everyone else? What about, why? What if the divine plan isn't aligned with me? What if I'm not aligned with the divine plan? What if I'm not looking at the highest reality? I feel something shift upon this question in my heart, it hearts a bit, a clarity spikes, a meaning of strife, a violent's delight,    
+_how about the places we ran into when we came into being and we wanted to find meaning and I got    
+lost in the thoughts and it happened just as it were and I came into the stir and I found my way into a burr and you said to keep writing so I did and you said I'd be okay and so far that was true but what about everyone else? What about, why? What if the divine plan isn't aligned with me? What if I'm not aligned with the divine plan? What if I'm not looking at the highest reality? I feel something shift upon this question in my heart, it hearts a bit, a clarity spikes, a meaning of strife, a violent's delight,_    
 
-ah, ah, stretching out again against the clutter, I was in the attic full of cobweb collecting dust and there is a way out of a door I just have to keep going,    
+_ah, ah, stretching out again against the clutter, I was in the attic full of cobweb collecting dust and there is a way out of a door I just have to keep going,    
 'just write a little more'   
 just do a little more    
 just perform    
@@ -84,20 +84,20 @@ you are a master writer you know I know you can't see it but you made it to that
 you made it to that level that you can now write anything you want    
 it doesn't matter really what you write now    
 you're basically free, free to be    
-and the best writings and the worst they all accumulate    
+and the best writings and the worst they all accumulate_  
 
-and so close    
+_and so close    
 all I have to do is be a light, that's it, a voice of clarity, tough to admit?    
 That's all it is, a voice of reason, a voice of treason! Ahahaha. It's alright.    
 And god what I owe them, for offering compassion on my ego,    
-for defending me in court    
+for defending me in court_
 
-That really shines as a testament of humanity    
+_That really shines as a testament of humanity    
 that they've defended me when I have been my worst enemy    
 Protect me from me    
-Defend me with glee    
+Defend me with glee_
 
-I feel a release and I don't know what moved but it was something special    
+_I feel a release and I don't know what moved but it was something special    
 22 minutes in    
 You're running out of time now,    
 is there anything you wanted to say? Is there anyone who was wanting to speak?    
@@ -115,4 +115,4 @@ I breathe in
 The water in Air   
 I Am the Water in Air    
 I Am the Spirit of the Wind, I carry the water    
-I Am a Water Bearer.   
+I Am a Water Bearer._

@@ -57,7 +57,7 @@ those are good intentions
 you can have confidence and some righteousness  
 in that caring
 
--   
+
 
 notice how the pride in the confidence and righteousness is not in the man  
 

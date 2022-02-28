@@ -22,11 +22,15 @@ In practice these processes are obvious, but the why is not obvious.
 The hidden difference is simple.  
 
 In Process A,  
-Man creates or a vision in his mind. He now picks up his pen to create it on paper. He will not be creating it for the first time. He already created it for the first time in his mind. Now he is attempting to create a copy. The copy will not be the same.  
+Man creates or a vision in his mind. He now picks up his pen to create it on paper. He will not be creating it for the first time. He already created it for the first time in his mind. Now he is attempting to create a copy. The copy will not be the same.
+
 In Process B,  
 Man has no vision in mind. He may have a concept in mind, an idea, but he does not know what the creation will look like. He might know what its type is, but he has not seen it, it has never existed.  
+
 Just one additional difference to pay attention to is that in process A is an expectation of result. Process B must have no expectation, there is no room for expectation as one is inside their creative channel in the moment and participating with the stroke of the brush. Their expectation is already being fulfilled in the act of creation itself. The result could be nothing less than the full power of the thought of the imagination and the current skill level of the artist.  
+
 This concept affirms a basic principle that there cannot be two copies of a masterwork. There is only one vision to be created. The realized idea is as perfect as the imagination intended it to be. If this were a stroke of genius, the result will be genius. If this were a stroke of madness, the result will be madness. A variation of process B is the only method to access the full realization of an idea brought into tangible form.  
+
 I call this the Brush Stroke method because I am reminded of the first scripture in Genesis.   
 “In the beginning God created the heavens and the earth.” — Genesis 1:1  
 In contrast, in all later scriptures God spoke, “Let There Be [X]”.  
