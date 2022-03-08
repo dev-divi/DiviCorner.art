@@ -3,6 +3,7 @@ category: "Thought"
 title: "World-halves"
 date: "2022-01-29"
 ---
+
 The thought passes by me as I am reflecting on buddhism, I am scanning a Vedas text,   
 and I thinking that  
 like man and woman are separate and marry,  

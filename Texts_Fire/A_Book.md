@@ -7,3 +7,8 @@ now **the teaching book, the how to learn book, that might still have some value
 especially when you consider that that's what had value to me in timothy ferris' book. **
 
 so maybe Perspective Core + How to learn somewhere in the middle 
+It seems I'm actually writing it right now? 
+
+Perspective - 
+How to - 
+Creativity - 

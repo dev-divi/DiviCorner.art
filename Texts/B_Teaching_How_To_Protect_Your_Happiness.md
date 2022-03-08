@@ -1,7 +1,7 @@
 ---
 category: "Living" 
 sort: "B" 
-title: "Regarding Not Allowing Others to Steal Your Happiness"
+title: "How to Protect Your Happiness"
 date: "2022-02-02"
 ---
 

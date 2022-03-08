@@ -6,14 +6,14 @@ date: "2022-01-27"
 
 I have this page set to come up when I open up Chrome, it fascinates me that the world has an Orwellian-esque digital library of information now. 
 
-https://archive.org/details/internetarchivebooks?&sort=-week&page=15
+[Internet Archive Books](https://archive.org/details/internetarchivebooks?&sort=-week&page=15)
 
 Today this text stood out to me, Jiddu Krishnamurti's The Book of Life. 
 It has 365 daily reflections on the silence and stillness that I focus on. 
 
 I happened to find a pdf, 
 
-https://selfdefinition.org/krishnamurti/Jiddu_Krishnamurt_The_Book_of_Life.pdf
+[The Book of Life PDF](https://selfdefinition.org/krishnamurti/Jiddu_Krishnamurt_The_Book_of_Life.pdf) 
 
 And I happen to know ctrl-v as well. 
 

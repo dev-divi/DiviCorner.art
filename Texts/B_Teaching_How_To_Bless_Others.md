@@ -1,7 +1,7 @@
 ---
 category: "Living" 
 sort: "B" 
-title: "Teaching Blessing"
+title: "How to Bless Others"
 date: "2022-01-28"
 ---
 

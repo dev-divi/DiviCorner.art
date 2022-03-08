@@ -1,7 +1,7 @@
 ---
-category: "Living" 
+category: "Conceptual" 
 sort: "B" 
-title: "Simple Depression"
+title: "Depression in Powerlessness"
 date: "2022-02-02"
 ---
 

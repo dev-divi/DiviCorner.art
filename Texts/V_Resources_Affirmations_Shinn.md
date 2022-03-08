@@ -4,13 +4,11 @@ title: "Affirmations of Success"
 date: "2022-01-28"
 ---
 
-Your Word is Your Wand Affirmations
+Your Word is Your Wand(1928) Affirmations
 
 By Florence Scovel Shinn
 
-1928
-
-Success  
+## Success 
 
 Behold, I make all things new.  
 

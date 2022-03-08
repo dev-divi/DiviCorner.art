@@ -1,7 +1,7 @@
 ---
 category: "Living" 
 sort: "B" 
-title: "How to get rid of toxic bitterness hurting you"
+title: "How to Rid Yourself of Toxic Bitterness Hurting You"
 date: "2022-02-01"
 ---
 
