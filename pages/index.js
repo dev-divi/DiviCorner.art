@@ -105,10 +105,11 @@ export default function Home({ allPostsData }) {
             <h3></h3>
             <span onClick={handleToggle}className={utilStyles.thepointer}>texts🟢  </span>
             {showDetail && <p>
+              <span className={utilStyles.linksUnderline}> 
 
               <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                     <h2 className={utilStyles.headingLg}>  </h2>
-                         <Link href={`/all`}>
+                         <Link href={`/secrets`}>
                         <a><i>View All </i></a> 
                         </Link>
                          {/* 
@@ -145,6 +146,8 @@ export default function Home({ allPostsData }) {
                     ))}
                     </ul>
                 </section>
+
+                </span> 
               </p>}
           </React.Fragment>  
           {/*<Texts /> */}
