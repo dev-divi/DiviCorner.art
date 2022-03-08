@@ -1,6 +1,6 @@
 December 23 
 
-hey divi what happens when i die
+"hey divi what happens when i die? " 
 [3:29 PM] not starboy: in a dream when u die u just wake up
 [3:29 PM] not starboy: so if i die IRL i just wake up
 [3:29 PM] not starboy: ?

@@ -4,6 +4,10 @@ title: "Wind Breath"
 date: "2022-01-29"
 ---
 
+The powerful word for Breath in Hebrew is Ruah. 
+Knowing this information gives a very different and more Eastern interpretation of Bible scripture than we are used to in Catholic and Christian upbringings. The ancient scripture becomes more Native American in tone, it becomes more familiar to life and less religious to us. 
+
+
 Rûaħ רוּחַ wind spirit Breath  	
 
 Rûaħ  

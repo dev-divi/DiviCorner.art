@@ -1,5 +1,5 @@
 ---
-category: "Resources" 
+category: "Resources - Creativity" 
 title: "Creative Pitfall Synopsis"
 date: "2022-01-28"
 ---
