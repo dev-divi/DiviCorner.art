@@ -24,6 +24,8 @@ body {
   background-image: url("style_images/background.jpeg"); 
   background-position: center; 
   background-repeat:repeat-y; 
+
+  font-family: 'Lora', serif;
 }
 
 a {
