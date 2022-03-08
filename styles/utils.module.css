@@ -125,10 +125,11 @@
 
 }
 .superbutton {
+  color:rgb(253, 247, 226);
+
   background-image: url("./style_images/button3.png"); 
   background-position: right;
   border-radius: 77px;
-  color:rgb(253, 247, 226);
   cursor: pointer;
   display: inline-block;
   padding: 8px 16px;
