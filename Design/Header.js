@@ -19,7 +19,7 @@ const NavBar = () => {
               </Link>
 
               <Link href="/">
-              <button className={utilStyles.superbutton}><img src={button3} alt="Home" /></button>
+              <button className={utilStyles.superbutton}><Image src={button3} alt="Home" className={utilStyles.superbutton} /></button>
               </Link>
 
               <Link href="/about">
