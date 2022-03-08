@@ -13,8 +13,8 @@ const AboutInfo = () => {
             <p> 
                 Divi Corner contains refined, cultivated ancient secrets that are relevant and adaptable to real life. 
                 <br /> 
-                The Corner's focus on Life, Creativity, and Concepts 
-                releases information to gain Success, Wealth, and Power over one's own life. 
+                The Corner&apos;s focus on Life, Creativity, and Concepts 
+                releases information to gain Success, Wealth, and Power over one&apos;s own life. 
     
                 <br /> <br />  Within this information is easy to read, practical modern understandings of abstract concepts,
                 easily accessible techniques and methods, with no bias or barrier to entry. 
@@ -27,7 +27,7 @@ const AboutInfo = () => {
 
                 <br /> <br /> 
                 Refinement Process: <br / >
-                This app has been designed to store only the core root of a secret's information, explaining a critically important concept in few words. <br /> 
+                This app has been designed to store only the core root of a secret&apos;s information, explaining a critically important concept in few words. <br /> 
                 All texts should be entry level. <br /> 
                 All texts should be non-biased. <br /> 
                 Redundancy should be removed. <br /> 
