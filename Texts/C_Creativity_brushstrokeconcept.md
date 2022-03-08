@@ -1,5 +1,6 @@
 ---
-category: "Secrets" 
+category: "Creativity" 
+sort: "C" 
 title: "The Brush Stroke"
 date: "2022-01-29"
 ---

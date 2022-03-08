@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import utilStyles from '../styles/utils.module.css';
-import { getSortedPostsData } from '../library_system/texts_all'
+import { getSortedPostsData } from '../library_system/texts'
 import Link from 'next/link'
 import Date from '/library_system/date';
 

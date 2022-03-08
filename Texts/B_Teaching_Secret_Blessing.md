@@ -1,5 +1,6 @@
 ---
-category: "Secrets" 
+category: "Living" 
+sort: "B" 
 title: "Teaching Blessing"
 date: "2022-01-28"
 ---

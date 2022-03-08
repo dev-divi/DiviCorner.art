@@ -1,5 +1,5 @@
 ---
-category: "Secrets" 
+category: "Conceptual" 
 title: "As Above So Below"
 date: "2022-01-29"
 ---

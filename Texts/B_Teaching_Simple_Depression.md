@@ -1,5 +1,6 @@
 ---
-category: "Secrets" 
+category: "Living" 
+sort: "B" 
 title: "Simple Depression"
 date: "2022-02-02"
 ---

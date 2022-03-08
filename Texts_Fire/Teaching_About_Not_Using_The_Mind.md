@@ -3,6 +3,7 @@ category: "About Not Using the Mind"
 title: "Free Write Intentions"
 date: "2022-01-27"
 ---
+
 About not using the mind, 
 
 Accessing meaning doesn't require comprehension or figuring it out or thinking about it, 
