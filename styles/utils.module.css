@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 .heading2Xl {
   font-size: 2.5rem;
   line-height: 1.2;
@@ -62,4 +63,8 @@
 }
 .thepointer{ 
   cursor: pointer;
+}
+.articlestyling { 
+  font-family: 'Playfair Display', serif;
+  font-size: 1em;
 }

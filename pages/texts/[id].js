@@ -22,7 +22,10 @@ export default function Post({ postData }) {
           <div className={utilStyles.lightText}>
             <Date dateString={postData.date} />
           </div>
+
+          <span className={utilStyles.articlestyling}> 
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+          </span>
         </span>
       </article>
 
