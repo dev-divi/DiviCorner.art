@@ -3,7 +3,7 @@ import Link from 'next/link'
 import utilStyles from '../styles/utils.module.css'
 import Layout, { siteTitle, name } from './Layout'
 import styles from '../styles/Home.module.css'
-
+import button3 from '../styles/style_images/button3.png';
 const NavBar = () => {
     return ( 
         <nav className={utilStyles.siteheader}>
@@ -16,13 +16,13 @@ const NavBar = () => {
                 <a className={utilStyles.colorInherit}>{name}</a>
               </Link>
               <Link href="/">
-              <button className={utilStyles.superbutton}>Home</button>
+              <button className={utilStyles.superbutton}><img src={button3} alt="Home" /></button>
               </Link>
               <Link href="/about">
-                <button className={utilStyles.superbutton}>About</button>
+                <button className={utilStyles.superbutton}><img src={button3} alt="About" /></button>
               </Link>
               {/* 
-              <Link href=""> - Social </Link> 
+              <Link href=""> -img component Social </Link> 
               <Link href=""> - Gaming </Link> 
               */} 
             <section className={utilStyles.navbar_links}>
