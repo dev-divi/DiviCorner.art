@@ -125,7 +125,7 @@
 
 }
 .superbutton {
-  background-image: url("style_images/button3.png"); 
+  background-image: url("./style_images/button3.png"); 
   background-position: right;
   border-radius: 77px;
   color:rgb(253, 247, 226);
@@ -144,7 +144,7 @@
 
 }
 .superbutton:hover {
-  background-image: url("style_images/button2.png"); 
+  background-image: url("./style_images/button2.png"); 
 
   transform: scale(1.05);
 }
