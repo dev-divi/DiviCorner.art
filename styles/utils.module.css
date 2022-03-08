@@ -126,7 +126,7 @@
 }
 .superbutton {
 
-  background-image: url("../public/button3.png"); 
+  background-image: url("/public/button3.png"); 
   background-position: right;
   border-radius: 77px;
   cursor: pointer;
@@ -144,14 +144,14 @@
 
 }
 .superbutton:hover {
-  background-image: url("../public/button2.png"); 
+  background-image: url("/public/button2.png"); 
 
   transform: scale(1.05);
 }
 
 .imagebutton {
 
-  background-image: url("../public/button3.png"); 
+  background-image: url("/public/button3.png"); 
   background-position: right;
   border-radius: 77px;
   cursor: pointer;
