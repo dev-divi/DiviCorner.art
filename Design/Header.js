@@ -15,8 +15,12 @@ const NavBar = () => {
               <Link href="/">
                 <a className={utilStyles.colorInherit}>{name}</a>
               </Link>
-              <Link href="/"> - Home </Link>
-              <Link href="/about"> - About </Link>
+              <Link href="/">
+              <button className={utilStyles.superbutton}>Home</button>
+              </Link>
+              <Link href="/about">
+                <button className={utilStyles.superbutton}>About</button>
+              </Link>
               {/* 
               <Link href=""> - Social </Link> 
               <Link href=""> - Gaming </Link> 

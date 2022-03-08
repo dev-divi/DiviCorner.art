@@ -69,5 +69,82 @@
   font-size: 1em;
   font-family: 'Architects Daughter', cursive; */
   font-family: 'Yusei Magic', sans-serif;
+  font-size: 0.9em;
   
+}
+
+.superbuttonalt3{
+  background-image: url("style_images/button2.png"); 
+  border-radius: 77px;
+  color:rgb(253, 247, 226);
+  cursor: pointer;
+  display: inline-block;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  border: 0;
+  font-size: 15px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  font-family:none 'Lora', serif;
+}
+.superbuttonalt2{
+  background-image: url("style_images/button3.png"); 
+  border-radius: 77px;
+  color:rgb(253, 247, 226);
+  cursor: pointer;
+  display: inline-block;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  border: 0;
+  font-size: 15px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  font-family:none 'Lora', serif;
+}
+.superbuttonalt {
+  background-image: url("style_images/button3.png"); 
+  background-position: center;
+  border-radius: 77px;
+  color:rgb(253, 247, 226);
+  cursor: pointer;
+  display: inline-block;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  border: 0;
+  font-size: 15px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  font-family:none 'Lora', serif;
+  
+
+}
+.superbutton {
+  background-image: url("style_images/button3.png"); 
+  background-position: right;
+  border-radius: 77px;
+  color:rgb(253, 247, 226);
+  cursor: pointer;
+  display: inline-block;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  border: 0;
+  font-size: 15px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  font-family:none 'Lora', serif;
+  
+
+}
+.superbutton:hover {
+  background-image: url("style_images/button2.png"); 
+
+  transform: scale(1.05);
 }

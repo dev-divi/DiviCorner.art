@@ -48,7 +48,7 @@ const AboutInfo = () => {
             Join the email list to be notified of new works. </p>
             
             <SimpleForm /> 
-
+            <br />
             Thank you for being here. 
 
         </div> 
