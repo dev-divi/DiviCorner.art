@@ -3,7 +3,9 @@ import Link from 'next/link'
 import utilStyles from '../styles/utils.module.css'
 import Layout, { siteTitle, name } from './Layout'
 import styles from '../styles/Home.module.css'
-import button3 from '../pages/button3.png';
+import Image from 'next/image'
+
+import button3 from '../public/button3.png';
 const NavBar = () => {
     return ( 
         <nav className={utilStyles.siteheader}>
