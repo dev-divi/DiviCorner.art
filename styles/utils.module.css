@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lora&family=Playfair+Display&family=Yusei+Magic&display=swap');
 .heading2Xl {
   font-size: 2.5rem;
   line-height: 1.2;
@@ -67,5 +67,7 @@
 .articlestyling { 
   font-family: 'Playfair Display', serif;
   font-size: 1em;
+  font-family: 'Architects Daughter', cursive;
+  font-family: 'Yusei Magic', sans-serif;
   
 }
