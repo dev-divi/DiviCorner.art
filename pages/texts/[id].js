@@ -9,6 +9,7 @@ import utilStyles from '/styles/utils.module.css'
 import Date from '/library_system/date';
 
 import FooterArticle from '../../Design/FooterArticle';
+import MoneyModule from '../MainMoney/MoneyModule';
 
 export default function Post({ postData }) {
   return (
