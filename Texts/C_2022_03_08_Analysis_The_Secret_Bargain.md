@@ -1,5 +1,5 @@
 ---
-title: The Secret Bargain Between the Doctor and Patient 
+title: "The Secret Bargain Between the Doctor and Patient" 
 category: "Living - Analysis" 
 date: "2022-03-08"
 ---

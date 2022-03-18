@@ -22,7 +22,7 @@ const NavBar = () => {
               </Link>
               
               <Link href="/">
-              <Image width={70} height={40} src={button1} alt="About" className={utilStyles.imagebutton}/>
+              <Image width={70} height={40} src={button1} alt="Home" className={utilStyles.imagebutton}/>
               </Link>
 
               <Link href="/about">

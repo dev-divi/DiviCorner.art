@@ -14,7 +14,7 @@ const Stripe = () => {
         const stripe = await stripePromise;
         const { error } = await stripe.redirectToCheckout({
           lineItems: [{
-            price: '{{prod_LIcbkhbZkanUnV}}' // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+            price: 'prod_LIcbkhbZkanUnV' // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
     , // Replace with the ID of your price
             quantity: 1,
           }],

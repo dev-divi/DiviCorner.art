@@ -29,7 +29,7 @@ export default function Post({ postData }) {
           </span>
         </span>
       </article>
-
+      <MoneyModule />
       <FooterArticle /> 
     </>
   )

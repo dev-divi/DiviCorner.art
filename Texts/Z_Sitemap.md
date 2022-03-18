@@ -7,6 +7,8 @@ date: "2021-12-01"
 
 Sitemap V2 - 
 
+ Potentiality - [possibility, perspectives, core]
+ 
  Living - 
 
  Creativity - 

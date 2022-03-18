@@ -7,6 +7,7 @@ import MoneyThankYou from "./MoneyThankYou";
 const MoneyModule = () => {
     return ( 
         <>
+            <p>TESTING IN PROGRESS </p> 
             <MoneyStart /> 
             <MoneyDonation /> 
             <Stripe /> 
