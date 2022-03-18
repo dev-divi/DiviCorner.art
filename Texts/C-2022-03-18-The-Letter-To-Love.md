@@ -50,7 +50,7 @@ You have no control over this expression, you have "no way out",
 
 you can be nothing else than this that you are because this is a simple arising of a perfect happening. 
 
-Any man who speaks to you as though your should or should not or that you must be other than, 
+Any man who speaks to you as though 'your should' or 'should not' or that 'you must be other than', 
 
 any man who does not recognize you or himself as a perfect child of divinity does not currently possess the understanding you require in order to move forward, in order to know yourself. 
 
