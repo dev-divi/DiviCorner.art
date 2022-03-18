@@ -7,7 +7,11 @@ import MoneyThankYou from "./MoneyThankYou";
 const MoneyModule = () => {
     return ( 
         <>
-            <p>TESTING IN PROGRESS </p> 
+            <p>TESTING IN PROGRESS 
+                
+                THIS SITE MUST BE PUSHED LIVE IN ORDER TO TEST STRIPE. 
+                NO USER SHOULD BE ON THIS PAGE. ANY RISK TO THE USER IS ON THEM. 
+                </p> 
             <MoneyStart /> 
             <MoneyDonation /> 
             <Stripe /> 
