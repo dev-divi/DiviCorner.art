@@ -1,7 +1,7 @@
 ---
 category: "Resources" 
 title: "Lila and Florence"
-date: "2022-01-18"
+date: "2022-03-19"
 ---
 
 # Perfect Health, Wealth, Love, and Expression 
