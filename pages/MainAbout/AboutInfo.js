@@ -27,6 +27,7 @@ const AboutInfo = () => {
 
                 <br /> <br /> 
                 Refinement Process: <br / >
+                How to gain creative access should be what all information points towards. 
                 This app has been designed to store only the core root of a secret&apos;s information, explaining a critically important concept in few words. <br /> 
                 All texts should be entry level. <br /> 
                 All texts should be non-biased. <br /> 
@@ -49,6 +50,14 @@ const AboutInfo = () => {
             
             <SimpleForm /> 
             <br />
+            <br /> 
+                Support my ability to further explore the secrets of accessing focused creative energy and sharing these secrets with all 
+                by donating to my ethereum or bitcoin addresses. I can change the world with your help. 
+<br /> 
+                <br/> 
+                bitcoin donation address: bc1q99vng5nykfjv7vy8crj7p3a4nluwgm44mup20a<br /> 
+ethereum donation address: 0x39c7C9FdB10Df996d59590fd5cC52483a919EB29  <br /> 
+<br /> <br /> 
             Thank you for being here. 
 
         </div> 

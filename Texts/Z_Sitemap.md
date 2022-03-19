@@ -8,10 +8,8 @@ date: "2021-12-01"
 Sitemap V2 - 
 
  Potentiality - [possibility, perspectives, core]
- 
- Living - 
 
- Creativity - 
+ Creativity - Accessing and Gaining Creativity 
 
  Conceptual - Spiritual Concepts 
  
@@ -22,6 +20,7 @@ Sitemap V2 -
  Research 
 
  
+ Living - 
 
 <!-- sort is by filename -->
 

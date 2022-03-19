@@ -72,7 +72,10 @@
   font-size: 0.8em;
   
 }
-
+.patreon { 
+  font-family: 'Lora', serif;
+  font-size: 0.8em;
+}
 .superbuttonalt3{
   background-image: url("style_images/button2.png"); 
   border-radius: 77px;
@@ -126,7 +129,9 @@
 }
 .superbutton {
 
-  background-image: url("/public/button3.png"); 
+  /*background-image: url("/public/button3.png"); */
+  background-color: #9b111e; 
+  color: white; 
   background-position: right;
   border-radius: 77px;
   cursor: pointer;

@@ -1,6 +1,6 @@
 ---
-category: "Teaching" 
-title: "Free Write Intentions"
+category: "Creativity " 
+title: "Written Intentions"
 date: "2022-01-27"
 ---
 
