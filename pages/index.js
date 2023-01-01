@@ -135,7 +135,7 @@ export default function Home({ allPostsData }) {
                     <dt><strong>Ruach {/* &bull;o&bull;morph*/ }</strong></dt>
                     <dd>
                         <em>noun</em><br />
-                        “The basic meaning of ruach is both wind or breath, but neither is understood as essence; rather it is the power encountered in the breath and the wind, whose whence and whither remains mysterious…"                 
+                        "&quot;The basic meaning of ruach is both wind or breath, but neither is understood as essence; rather it is the power encountered in the breath and the wind, whose whence and whither remains mysterious…"&quot;              
                     </dd>
                 </dl>
                 <br /> <br />
