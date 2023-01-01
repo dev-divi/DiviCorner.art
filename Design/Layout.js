@@ -18,7 +18,7 @@ const Layout = ( { children } ) => {
                         <h6>Home</h6>
                     </header>
                     <article>
-                        <h2 className="chapter-title">Divi's Corner</h2>
+                        <h2 className="chapter-title">Divi`&quot;s Corner</h2>
 
                         { children }
                     </article>

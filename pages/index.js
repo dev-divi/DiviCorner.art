@@ -119,7 +119,7 @@ export default function Home({ allPostsData }) {
 
        
              
-                    The Lord’s Spirit is on me, <br /> 
+                    The Spirit of the Lord God is on me, <br /> 
     because He has anointed me to preach good news to the humble.<br /> 
                               
                 <p>  
