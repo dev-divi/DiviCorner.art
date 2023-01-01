@@ -115,7 +115,7 @@ export default function Home({ allPostsData }) {
                     Site main image */} 
                
                <Image width={500} height={313} src={mainimage} alt="Space"/>
-               <br /> <br /> 
+               <br /> <br /><br /> 
 
        
              
@@ -135,7 +135,7 @@ export default function Home({ allPostsData }) {
                     <dt><strong>Ruach {/* &bull;o&bull;morph*/ }</strong></dt>
                     <dd>
                         <em>noun</em><br />
-                        `&quot;The basic meaning of ruach is both wind or breath, but neither is understood as essence; rather it is the power encountered in the breath and the wind, whose whence and whither remains mysterious…`&quot;              
+                        &quot;The basic meaning of ruach is both wind or breath, but neither is understood as essence; rather it is the power encountered in the breath and the wind, whose whence and whither remains mysterious…&quot;              
                     </dd>
                 </dl>
                 <br /> <br />
