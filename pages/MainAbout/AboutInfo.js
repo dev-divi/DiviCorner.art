@@ -11,6 +11,7 @@ const AboutInfo = () => {
     return ( 
         <div>
             <p> 
+                {/*
                 Divi Corner contains refined, cultivated ancient secrets that are relevant and adaptable to real life. 
                 <br /> 
                 The Corner&apos;s focus on Life, Creativity, and Concepts 
@@ -24,11 +25,11 @@ const AboutInfo = () => {
                 There are people who believe that much of this knowledge should not be available to the public, 
                 due to how civilian populations could misuse power, 
                 and this is why it remains hidden. 
-
+ */}
                 <br /> <br /> 
                 Refinement Process: <br / >
-                How to gain creative access should be what all information points towards. 
-                This app has been designed to store only the core root of a secret&apos;s information, explaining a critically important concept in few words. <br /> 
+                All information should point toward human freedom. 
+                {/* This app has been designed to store only the core root of a secret&apos;s information, explaining a critically important concept in few words. <br /> */}
                 All texts should be entry level. <br /> 
                 All texts should be non-biased. <br /> 
                 Redundancy should be removed. <br /> 
