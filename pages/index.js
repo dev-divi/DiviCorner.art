@@ -118,7 +118,7 @@ export default function Home({ allPostsData }) {
                <br /> <br /><br /> 
 
        
-             
+             {/* 
                     The Spirit of the Lord God is on me, <br /> 
     because He has anointed me to preach good news to the humble.<br /> 
                               
@@ -128,7 +128,7 @@ export default function Home({ allPostsData }) {
                   He Loves you.<br />
                   He Loves us. <br />
                   I love you. 
-                </p> 
+                </p>  */}
                   <br /> <br /> <br /> <br /> <br /> 
  
                 <dl>
