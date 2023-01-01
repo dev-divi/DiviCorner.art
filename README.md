@@ -29,6 +29,7 @@ npm install gray-matter
 npm install remark-html    
 npm install date-fns    
 
+npm install 98.css
 # ###########
 
 ReferenceError: getSortedPostsData is not defined   

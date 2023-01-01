@@ -1,7 +1,7 @@
 /* 
 This file is redundant. I'd rather use utils.module.css. 
 The only css I'm using in here I thin is .footer 
-*/
+
 
 .container {
   padding: 0 2rem;
@@ -120,3 +120,4 @@ The only css I'm using in here I thin is .footer
     flex-direction: column;
   }
 }
+*/

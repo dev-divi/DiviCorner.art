@@ -1,3 +1,4 @@
+/*
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lora&family=Playfair+Display&family=Yusei+Magic&display=swap');
 .heading2Xl {
   font-size: 2.5rem;
@@ -68,6 +69,8 @@
   /*font-family: 'Playfair Display', serif;
   font-size: 1em;
   font-family: 'Architects Daughter', cursive; */
+
+/*
   font-family: 'Yusei Magic', sans-serif;
   font-size: 0.8em;
   
@@ -76,6 +79,7 @@
   font-family: 'Lora', serif;
   font-size: 0.8em;
 }
+*/
 .superbuttonalt3{
   background-image: url("style_images/button2.png"); 
   border-radius: 77px;
@@ -130,6 +134,8 @@
 .superbutton {
 
   /*background-image: url("/public/button3.png"); */
+
+  
   background-color: #9b111e; 
   color: white; 
   background-position: right;
@@ -179,7 +185,9 @@
   font-family:none 'Lora', serif;
   
 }
+/*
 .toppadding { 
   padding-top: 100px;
   margin-top: 100px;
 }
+*/

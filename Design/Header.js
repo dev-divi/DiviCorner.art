@@ -9,33 +9,56 @@ import button1 from '../public/button1.png';
 import button2 from '../public/button2.png';
 
 import button3 from '../public/button3.png';
+import React from "react";
+import ReactDOM from "react-dom";
+import "98.css"; 
+
 const NavBar = () => {
+    const [count, setCount] = React.useState(0);
+
     return ( 
         <nav className={utilStyles.siteheader}>
-            <section className={utilStyles.headingMd}>
+
+ 
+            <div style={{ width: 300 }} className="window">
+              <div className="title-bar">
+                <div className="title-bar-text">Site Navigator V. 214.22.14</div>
+                <div className="title-bar-controls">
+                  <button aria-label="Minimize" />
+                  <button aria-label="Maximize" />
+                  <button aria-label="Close" />
+                </div>
+              </div>
+
+              <div className="window-body">
+                {/* <p style={{ textAlign: "center" }}> Welcome Back. {count}</p> */}
+                <div className="field-row" style={{ justifyContent: "center" }}>
+                  <Link href="/">
+                    <button >Home</button>
+                  </Link>
+                  <Link href="/about">
+                    <button >About</button>
+                  </Link>
+                  <Link href="/secrets"> 
+                    <button >All Texts</button>
+                  </Link>
+                  {/*}
+                  <Link href="/">
+                    <button onClick={() => setCount(count + 1)}>Home</button>
+                  </Link>
+                  <Link href="/about">
+                    <button onClick={() => setCount(count - 1)}>About</button>
+                  </Link>
+                  <Link href="/secrets"> 
+                    <button onClick={() => setCount(0)}>All Texts</button>
+                  </Link> */}
+                </div>
+              </div>
+            </div>
             <Head>
                 <title>{siteTitle}</title> {/* tab title */}
             </Head>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
-              </Link>
-              
-              <Link href="/">
-              <Image width={70} height={40} src={button1} alt="Home" className={utilStyles.imagebutton}/>
-              </Link>
-
-              <Link href="/about">
-              <Image width={70} height={40} src={button3} alt="About" className={utilStyles.imagebutton}/>
-              </Link>
-              {/* 
-              <Link href=""> -img component Social </Link> 
-              <Link href=""> - Gaming </Link> 
-              */} 
-            <section className={utilStyles.navbar_links}>
-            </section>
-            </h2>
-            </section>
+            
         </nav> 
      );
 }

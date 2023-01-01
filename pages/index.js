@@ -16,7 +16,7 @@ import { getSortedPostsData } from '../library_system/texts'
 //import { getSortedPostsDataMagic } from '../library_system/magic'
 //import { getSortedPostsDataLetters } from '../library_system/letters'
 
-
+import mainimage from '../styles/style_images/moonsun.jpg'
 //🟡 
 //🟠
 //🟣
@@ -98,11 +98,51 @@ export default function Home({ allPostsData }) {
   const handleToggle = () => setShowDetail(!showDetail);   
   return (
     <>
-
-
       <p> 
-          {/* <Lazer /> */} 
-          <React.Fragment>
+        
+      {/* 
+      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+      
+      Begin Site 
+      
+      
+      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+      */ }
+      
+                {/* 
+                    Site main image */} 
+               
+               <Image width={500} height={313} src={mainimage} alt="Space"/>
+               <br /> <br /> 
+
+       
+             
+                    The Lord’s Spirit is on me, <br /> 
+    because He has anointed me to preach good news to the humble.<br /> 
+                              
+                <p>  
+                  <br /> 
+                  He Loves me. <br />
+                  He Loves you.<br />
+                  He Loves us. <br />
+                  I love you. 
+                </p> 
+                  <br /> <br /> <br /> <br /> <br /> 
+ 
+                <dl>
+                    <dt><strong>Ruach {/* &bull;o&bull;morph*/ }</strong></dt>
+                    <dd>
+                        <em>noun</em><br />
+                        “The basic meaning of ruach is both wind or breath, but neither is understood as essence; rather it is the power encountered in the breath and the wind, whose whence and whither remains mysterious…"                 
+                    </dd>
+                </dl>
+                <br /> <br />
+                {/* <Lazer /> */} 
+
+            {/* 
+                <React.Fragment>
             <h3></h3>
             <span onClick={handleToggle}className={utilStyles.thepointer}>texts🟢  </span>
             {showDetail && <p>
@@ -123,11 +163,13 @@ export default function Home({ allPostsData }) {
                         <br />
                         {/* <small className={utilStyles.lightText}>
                             January 
-            </small> */} 
+            </small> 
 
-                </section>
+                </section> */} 
               
                 {/* Texts autoload */}
+
+                {/*
                 <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                     <h2 className={utilStyles.headingLg}>  </h2>
                     
@@ -147,17 +189,20 @@ export default function Home({ allPostsData }) {
                     ))}
                     </ul>
                 </section>
-
+                 
                 </span> 
               </p>}
           </React.Fragment>  
           {/*<Texts /> */}
-          <Book />
+
+          {/* 
+          <Book />*/}
     
             {/*<Letters />*/}
 
-          <br /> <br /> <br /> 
       </p> 
-    </> 
+
+
+    </>
   )
 }
