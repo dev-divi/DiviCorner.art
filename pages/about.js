@@ -52,7 +52,7 @@ const About = () => {
             <Projects />
             <Social /> <br /><br />
             
-            <Footer /><br /> 
+            <br /> 
         </>
      );
 }
