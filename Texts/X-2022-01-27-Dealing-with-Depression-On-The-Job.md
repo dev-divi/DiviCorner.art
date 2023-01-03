@@ -1,6 +1,6 @@
 ---
 category: "Resources" 
-title: "Dealing with Depression on the Job"
+title: "Depression on the Job"
 date: "2022-01-27"
 ---
 

@@ -4,6 +4,9 @@ import { getSortedPostsData } from '../library_system/texts_all'
 import Link from 'next/link'
 import Date from '/library_system/date';
 import '98.css';
+import Image from 'next/image'
+import Coin from '../styles/style_images/coin.png'
+import Ring from '../styles/style_images/ring.png'
 
 export async function getStaticProps() {
     const allPostsData = getSortedPostsData()
@@ -13,6 +16,7 @@ export async function getStaticProps() {
         }
     }
 }
+ 
 const AllTexts = ({ allPostsData }) => {
     return ( 
         <> 
@@ -26,11 +30,18 @@ const AllTexts = ({ allPostsData }) => {
                         <span className={utilStyles.linksUnderline}> 
 
                         <div className="window-body">
-                        <button className="divi-button">
                         <Link href={`/texts/${id}`}>
-                        <a className="divi-button">{title}</a> 
-                        </Link> 
-                        </button>
+                            <Image width={30} height={33} src={Coin} alt="coin"/> 
+                        </Link>     
+                        &nbsp; 
+
+                        <button className="divi-button">
+                            <Link href={`/texts/${id}`}>
+                            <a className="divi-button"> {title} </a> 
+                            </Link> 
+                            <Image width={30} height={33} src={Ring} alt="ring"/> 
+                        </button>            
+
                         </div>   
                         </span>
                         

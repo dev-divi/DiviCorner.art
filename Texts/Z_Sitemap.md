@@ -1,5 +1,5 @@
 ---
-category: "" 
+category: "Sitemap" 
 title: "🔮 Sitemap"
 date: "2021-12-01"
 ---
