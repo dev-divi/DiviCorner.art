@@ -371,6 +371,9 @@ text-decoration: none;
     }
 
 }
+.open-book button {
+    font-size: 30px;
+}
 /*
 html,
 {/* 

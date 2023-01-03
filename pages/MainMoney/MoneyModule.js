@@ -14,7 +14,7 @@ const MoneyModule = () => {
                 </p> 
             <MoneyStart /> 
             <MoneyDonation /> 
-            <Stripe /> 
+            {/* <Stripe />  */}
 
             <MoneyThankYou /> 
         </>

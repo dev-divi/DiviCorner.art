@@ -1,11 +1,11 @@
 /* 2023 Update */ 
 
+/* Headings */ 
+/*
 .headingMd {
   font-size: 1.2rem;
   line-height: 1.5;
 }
-/*
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lora&family=Playfair+Display&family=Yusei+Magic&display=swap');
 .heading2Xl {
   font-size: 2.5rem;
   line-height: 1.2;
@@ -14,48 +14,57 @@
   margin: 1rem 0;
   
 }
-
-.headingXl {
+*/
+.headingXl {             /* Main Heading */ 
   font-size: 2rem;
-  line-height: 1.3;
+  line-height: 1;
   font-weight: 800;
   letter-spacing: -0.05rem;
   margin: 1rem 0;
+  padding-bottom: 2rem;
+}
+/* List Code */ 
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size:2rem;
 }
 
+.listItem {
+  margin: 0 0 1.25rem;
+}
+
+
+
+
+.lightText {
+  color: #666;
+}
+/*
 .headingLg {
   font-size: 1.5rem;
   line-height: 1.4;
   margin: 1rem 0;
   font-family: Elemental;
 }
-
 .headingMd {
   font-size: 1.2rem;
   line-height: 1.5;
-}
+} */
+
+/* More Code 
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lora&family=Playfair+Display&family=Yusei+Magic&display=swap');
 
 .borderCircle {
   border-radius: 9999px;
-}
-
-.colorInherit {
-  color: inherit;
 }
 
 .padding1px {
   padding-top: 1px;
 }
 
-.list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.listItem {
-  margin: 0 0 1.25rem;
-}
 
 .lightText {
   color: #666;

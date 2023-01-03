@@ -1,5 +1,5 @@
 ---
-category: "Creativity " 
+category: "Creativity" 
 title: "Writing Intentions"
 date: "2022-01-27"
 ---

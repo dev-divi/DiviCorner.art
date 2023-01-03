@@ -22,17 +22,13 @@ const AllTexts = ({ allPostsData }) => {
                     <ul className={utilStyles.list}>
                     {allPostsData.map(({ id, date, title, category }) => (
 
-
                         <li className={utilStyles.listItem} key={id}>
-
                         <span className={utilStyles.linksUnderline}> 
 
-                        
-
                         <div className="window-body">
-                        <button>
+                        <button className="divi-button">
                         <Link href={`/texts/${id}`}>
-                        <a>{title}</a> 
+                        <a className="divi-button">{title}</a> 
                         </Link> 
                         </button>
                         </div>   
@@ -40,7 +36,7 @@ const AllTexts = ({ allPostsData }) => {
                         
                         <small className={utilStyles.lightText}>
                             <Date dateString={date} /> 
-                            - 
+                            &nbsp;-&nbsp; 
                             {category} 
 
                         </small>
