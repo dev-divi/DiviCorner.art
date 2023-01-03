@@ -1,6 +1,6 @@
 ---
-category: "The Lamp of the Body" 
-title: ""
+category: "Core Christ" 
+title: "The Lamp of the Body"
 sort: "C" 
 
 date: "2022-10-05"
