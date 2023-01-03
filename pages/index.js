@@ -30,9 +30,7 @@ const AllTexts = ({ allPostsData }) => {
                         <span className={utilStyles.linksUnderline}> 
 
                         <div className="window-body">
-                        <Link href={`/texts/${id}`}>
                             <Image width={30} height={33} src={Coin} alt="coin"/> 
-                        </Link>     
                         &nbsp; 
 
                         <button className="divi-button">
