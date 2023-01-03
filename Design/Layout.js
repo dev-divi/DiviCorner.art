@@ -2,7 +2,7 @@ import Footer from "./Footer";
 import Header from "./Header";
 import styles from '../styles/layout.module.css';
 
-export const siteTitle = 'DiviCorner.art'
+export const siteTitle = 'Divi\'s Corner'
 export const name = 'Divi Corner'
 
 const Layout = ( { children } ) => {
