@@ -1,5 +1,5 @@
 ---
-category: "Thought and Creativity" 
+category: "Creativity" 
 title: "The Writing Process"
 date: "2022-01-29"
 ---

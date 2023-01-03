@@ -1,6 +1,6 @@
 ---
-category: "Thought" 
-title: "Journaling"
+category: "Creativity" 
+title: "Journaling States"
 date: "2022-01-28"
 ---
 

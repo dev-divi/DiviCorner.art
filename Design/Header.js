@@ -39,9 +39,6 @@ const NavBar = () => {
                   <Link href="/about">
                     <button >About</button>
                   </Link>
-                  <Link href="/secrets"> 
-                    <button >All Texts</button>
-                  </Link>
                   {/*}
                   <Link href="/">
                     <button onClick={() => setCount(count + 1)}>Home</button>

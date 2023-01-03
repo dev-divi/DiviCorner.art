@@ -16,6 +16,7 @@ const AllTexts = ({ allPostsData }) => {
     return ( 
         <> 
                 {/* Texts autoload */}
+                
                 <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                     <h2 className={utilStyles.headingLg}>  </h2>
                     <ul className={utilStyles.list}>

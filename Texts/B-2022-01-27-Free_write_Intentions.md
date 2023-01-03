@@ -1,6 +1,6 @@
 ---
 category: "Creativity " 
-title: "Written Intentions"
+title: "Writing Intentions"
 date: "2022-01-27"
 ---
 
@@ -12,7 +12,7 @@ This allows me to relax into writing instead of trying to achieve a goal.
 My resistance usually disappears if I have been in practice.
 
 I should write my intention at the top of the page before writing. 
-This intention, a reminder such as "Creative Flow, Resting in Motion",  
+This intention, 
 should capture the meaning of the reminder that I am writing in order to meditate on the page, 
 not to write something beautiful, 
 not to get something out, 

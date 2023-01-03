@@ -1,5 +1,5 @@
 ---
-category: "Conceptual" 
+category: "Core Christ" 
 sort: "D" 
 title: "Mystic Principle" 
 date: "2022-03-16"

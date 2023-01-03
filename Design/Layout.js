@@ -15,7 +15,7 @@ const Layout = ( { children } ) => {
                 <section className="open-book">    
                     <header>
                         <h1>DiviCorner.art</h1>
-                        <h6>Home</h6>
+                        <h6> </h6>
                     </header>
                     <article>
                         <h2 className="chapter-title">Divi&apos;s Corner</h2>

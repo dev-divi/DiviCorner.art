@@ -1,5 +1,5 @@
 ---
-category: "Conceptual" 
+category: "Core Christ" 
 title: "Servant of Love"
 date: "2022-03-17"
 ---

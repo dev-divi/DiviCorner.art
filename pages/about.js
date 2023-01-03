@@ -5,6 +5,8 @@ import AboutInfo from "./MainAbout/AboutInfo"
 import SiteSocial from './MainAbout/AboutSocial';
 import AboutProjects from './MainAbout/AboutProjects';
 import utilStyles from '../styles/utils.module.css';
+import Image from 'next/image'
+import mainimage from '../styles/style_images/moonsun.jpg'
 
 function Info(){
     const [showDetail,setShowDetail] = useState(false);
@@ -47,7 +49,9 @@ return (
 }   
 const About = () => {
     return ( 
-        <> 
+        <>  
+            <Image width={500} height={313} src={mainimage} alt="Space"/><br /><br /><br />
+            <br /><br /><br /><br />
             <Info />
             <Projects />
             <Social /> <br /><br />

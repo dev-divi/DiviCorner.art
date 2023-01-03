@@ -30,10 +30,20 @@ export function getSortedPostsData() {
     }
   })
   // Sort posts by date
-  // v2 texts, only for ALL page, have to rename this file to textall.js 
+  return allPostsData.sort(({ date: a }, { date: b }) => {
+    if (a < b) {
+      return 1
+    } else if (a > b) {
+      return -1
+    } else {
+      return 0
+    }
+  })
 
+  //Sort posts by Alphabet
+  // v2 texts, only for ALL page, have to rename this file to textall.js 
   //need to sort by category 
-  return allPostsData.sort(({ sort: a }) => { return 1  }) //second half of this code unnecessary
+  //return allPostsData.sort(({ sort: a }) => { return 1  }) //second half of this code unnecessary
  {/* { return allPostsData.sort(({ category: a }, { category: b }) .sort(({ category: a }) => { return 1  })=> {
     if (a < b) {
       return 1
