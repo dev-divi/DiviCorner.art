@@ -17,16 +17,19 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
       </Head>
-      <article>
+      <article className={utilStyles.articleClass}>
         <span className={utilStyles.linksUnderline}> 
           <h1 className={utilStyles.headingXl}>{postData.title}</h1>
           <div className={utilStyles.lightText}>
             <Date dateString={postData.date} />
           </div>
-
+          {/* some article spacing between date and article */}
+          <br />  
+          <div >
           <span className={utilStyles.articlestyling}> 
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
           </span>
+          </div>
         </span>
       </article>
       {/* <MoneyModule /> */} 

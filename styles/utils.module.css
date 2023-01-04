@@ -1,6 +1,59 @@
+
 /* 2023 Update */ 
 
 /* Headings */ 
+.headingXl {             /* Main Heading */ 
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+  padding-bottom: 0.5rem;
+  color: black;
+}
+/* List Code */ 
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size:2rem;
+}
+.listItem {
+  margin: 0 0 1.25rem;
+}
+
+.lightText {
+  color: #666;
+}
+
+.articlestyling { 
+  /*cup of jo font */ 
+  
+  font-size: 19px;
+  font-family: adobe-garamond-pro, serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #212529;
+  letter-spacing: 0px;
+  line-height: 26px;
+  /* 
+  font-family: 'Playfair Display', serif;
+  font-family: 'Yusei Magic', sans-serif;
+  */
+  
+}
+.articlestyling p{
+  margin-bottom: 35px ;
+}
+.articleClass { 
+  background-color: #f9f7f4;
+  margin:2rem;
+  padding:2rem;
+  width: 150%;
+}
+/*
+
 /*
 .headingMd {
   font-size: 1.2rem;
@@ -14,35 +67,6 @@
   margin: 1rem 0;
   
 }
-*/
-.headingXl {             /* Main Heading */ 
-  font-size: 2rem;
-  line-height: 1;
-  font-weight: 800;
-  letter-spacing: -0.05rem;
-  margin: 1rem 0;
-  padding-bottom: 2rem;
-}
-/* List Code */ 
-
-.list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  font-size:2rem;
-}
-
-.listItem {
-  margin: 0 0 1.25rem;
-}
-
-
-
-
-.lightText {
-  color: #666;
-}
-/*
 .headingLg {
   font-size: 1.5rem;
   line-height: 1.4;
@@ -79,16 +103,6 @@
 }
 .thepointer{ 
   cursor: pointer;
-}
-.articlestyling { 
-  /*font-family: 'Playfair Display', serif;
-  font-size: 1em;
-  font-family: 'Architects Daughter', cursive; */
-
-/*
-  font-family: 'Yusei Magic', sans-serif;
-  font-size: 0.8em;
-  
 }
 .patreon { 
   font-family: 'Lora', serif;

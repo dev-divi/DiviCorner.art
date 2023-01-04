@@ -20,7 +20,7 @@ const NavBar = () => {
         <nav className={utilStyles.siteheader}>
             {/* 
              temporarily disable site navigator 
-
+             */}
             <div style={{ width: 300 }} className="window">
               <div className="title-bar">
                 <div className="title-bar-text">Site Navigator V. 214.22.14</div>
@@ -30,10 +30,10 @@ const NavBar = () => {
                   <button aria-label="Close" />
                 </div>
               </div> 
-              
+              */
 
               <div className="window-body">
-                {/* <p style={{ textAlign: "center" }}> Welcome Back. {count}</p> 
+                {/* <p style={{ textAlign: "center" }}> Welcome Back. {count}</p> */}
                 <div className="field-row" style={{ justifyContent: "center" }}>
                   <Link href="/">
                     <button >Home</button>
@@ -41,7 +41,6 @@ const NavBar = () => {
                   <Link href="/about">
                     <button >About</button>
                   </Link>
-                  */}
                   {/*}
                   <Link href="/">
                     <button onClick={() => setCount(count + 1)}>Home</button>
@@ -51,10 +50,10 @@ const NavBar = () => {
                   </Link>
                   <Link href="/secrets"> 
                     <button onClick={() => setCount(0)}>All Texts</button>
-                  </Link> 
+                  </Link> */}
                 </div>
               </div>
-            </div>*/}
+            </div>
             <Head>
                 <title>{siteTitle}</title> {/* tab title */}
             </Head>
