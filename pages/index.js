@@ -5,7 +5,7 @@ import Link from 'next/link'
 import Date from '/library_system/date';
 import '98.css';
 import Image from 'next/image'
-import Coin from '../styles/style_images/coin.png'
+//import Coin from '../styles/style_images/coin.png'
 import Ring from '../styles/style_images/ring.png'
 
 export async function getStaticProps() {
@@ -30,7 +30,7 @@ const AllTexts = ({ allPostsData }) => {
                         <span className={utilStyles.linksUnderline}> 
 
                         <div className="window-body">
-                            <Image width={30} height={33} src={Coin} alt="coin"/> 
+                            {/*<Image width={30} height={33} src={Coin} alt="coin"/> */}
                         &nbsp; 
 
                         <button className="divi-button">
