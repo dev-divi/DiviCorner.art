@@ -46,6 +46,7 @@ body {
     color: white;
 
     padding: 2em;
+    min-width: 500px; /* TEMPERMENTAL EXPERIMENTAL */
 }
 
 .open-book * {
@@ -384,8 +385,8 @@ text-decoration: none;
 .open-book button {
     padding-top: 4px;
     font-size: 2rem;
-    min-width: 450px;
-    min-height: 60px;    
+    min-width: 450px; /* TEMPERMENTAL EXPERIMENTAL */
+    min-height: 60px; /* TEMPERMENTAL EXPERIMENTAL */   
 }
 /*
 html,
