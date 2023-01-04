@@ -4,7 +4,7 @@ import styles from '../styles/layout.module.css';
 
 export const siteTitle = 'Divi\'s Corner'
 export const name = 'Divi Corner'
-
+import Link from 'next/link'
 const Layout = ( { children } ) => {
     return ( 
         
@@ -14,7 +14,11 @@ const Layout = ( { children } ) => {
                 <Header />
                 <section className="open-book">    
                     <header>
-                        <h1>DiviCorner.art</h1>
+                        
+                        <Link href="/" className="open-book ">
+                            <h1>DiviCorner.art</h1> 
+                        </Link>
+                              
                         <h6> </h6>
                     </header>
                     <article>
@@ -24,7 +28,6 @@ const Layout = ( { children } ) => {
                     </article>
 
                     <Footer />
-                    <br />  
                 </section > 
             {/* </div> */}
         </div>

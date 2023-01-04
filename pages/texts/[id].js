@@ -7,6 +7,7 @@ import Head from 'next/head'
 import Layout from '/Design/Layout'
 import utilStyles from '/styles/utils.module.css'
 import Date from '/library_system/date';
+import Link from 'next/link'
 
 import FooterArticle from '../../Design/FooterArticle';
 //import MoneyModule from '../MainMoney/MoneyModule';
@@ -27,13 +28,12 @@ export default function Post({ postData }) {
           <br />  
           <div >
           <span className={utilStyles.articlestyling}> 
-          <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+          <div className={utilStyles.paragraphstyling} dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
           </span>
           </div>
         </span>
       </article>
       {/* <MoneyModule /> */} 
-      <br /> <br /> 
       <FooterArticle /> 
     </>
   )

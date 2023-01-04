@@ -5,7 +5,9 @@ sort: "A"
 
 date: "2022-11-05"
 ---
-*"Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!"*  
+
+*"Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!"*   
+
 
 When I thought of this verse, I was thinking more about a directional pulling away.
 

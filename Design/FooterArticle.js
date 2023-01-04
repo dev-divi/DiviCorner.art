@@ -20,8 +20,6 @@ const FooterArticle = () => {
               </button>
               */}
             </div>   
-              <br /> 
-              <br /> 
 {/*
 
             <Link href={`/all`}>

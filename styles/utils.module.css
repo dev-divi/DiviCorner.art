@@ -37,20 +37,22 @@
   color: #212529;
   letter-spacing: 0px;
   line-height: 26px;
+  
   /* 
   font-family: 'Playfair Display', serif;
   font-family: 'Yusei Magic', sans-serif;
   */
-  
-}
-.articlestyling p{
-  margin-bottom: 35px ;
+
 }
 .articleClass { 
   background-color: #f9f7f4;
   margin:2rem;
   padding:2rem;
-  width: 150%;
+
+}
+.paragraphstyling { 
+  margin-bottom:35px !important; /* MANUALLY SET MARGIN HERE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
 }
 /*
 

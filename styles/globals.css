@@ -109,7 +109,7 @@ body {
 
 .open-book .chapter-title:before,
 .open-book .chapter-title:after {
-    border: solid 0 #000;
+    border: solid 0 #FFFFFF;
     border-width: 0.05em 0;
     bottom: calc((0.125em / 2) * 3);
     content: '';
@@ -136,9 +136,6 @@ body {
     max-width: 28.125em;
 }
 
-.open-book article p {
-    text-indent: 2em;
-}
 
 .open-book .chapter-title + p:first-of-type {
     text-indent: 0;
@@ -224,8 +221,10 @@ text-decoration: none;
     margin: 1em auto;
     padding: 1em 0;
 }
+.paragraphstyling { 
+  margin-bottom:35px !important; /* MANUALLY SET MARGIN HERE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 
-
+}
 
 /*** MEDIA QUERIES ***/
 @media only screen and ( min-width: 50em ) {
@@ -364,7 +363,8 @@ text-decoration: none;
 
     /* Body Copy */
     .open-book article p {
-        text-indent: 3em;
+        /* text-indent: 3em; */
+        text-indent:0;
     }
 
     .open-book article > ul,
