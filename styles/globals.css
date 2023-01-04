@@ -385,7 +385,7 @@ text-decoration: none;
 .open-book button {
     padding-top: 4px;
     font-size: 2rem;
-    min-width: 450px; /* TEMPERMENTAL EXPERIMENTAL */
+    min-width:50vmax; /* TEMPERMENTAL EXPERIMENTAL */
     min-height: 60px; /* TEMPERMENTAL EXPERIMENTAL */   
 }
 /*
