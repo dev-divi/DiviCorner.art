@@ -134,9 +134,15 @@ body {
 .open-book article *:not(.chapter-title):not(hr):not(dl) {
     margin: 0 auto;
     max-width: 28.125em;
+
 }
+.open-book2 {
+    margin-bottom: 35px !important;
 
-
+}
+.open-book2 article *:not(.chapter-title):not(hr):not(dl){  /* ARTICLE STYLING ON DIVICORNER */
+    margin-bottom: 35px !important;
+}
 .open-book .chapter-title + p:first-of-type {
     text-indent: 0;
 }
@@ -146,6 +152,8 @@ body {
     font: 700 3em/0.65 'Playfair Display', sans-serif;
     padding: 0.15em 0.05em 0 0;
     text-transform: uppercase;
+
+
 }
 
 .open-book article > ul,

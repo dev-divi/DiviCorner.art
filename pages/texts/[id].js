@@ -7,7 +7,6 @@ import Head from 'next/head'
 import Layout from '/Design/Layout'
 import utilStyles from '/styles/utils.module.css'
 import Date from '/library_system/date';
-import Link from 'next/link'
 
 import FooterArticle from '../../Design/FooterArticle';
 //import MoneyModule from '../MainMoney/MoneyModule';
@@ -18,6 +17,7 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
       </Head>
+      <section className="open-book2">
       <article className={utilStyles.articleClass}>
         <span className={utilStyles.linksUnderline}> 
           <h1 className={utilStyles.headingXl}>{postData.title}</h1>
@@ -25,14 +25,14 @@ export default function Post({ postData }) {
             <Date dateString={postData.date} />
           </div>
           {/* some article spacing between date and article */}
-          <br />  
           <div >
           <span className={utilStyles.articlestyling}> 
-          <div className={utilStyles.paragraphstyling} dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+          <div className="open-book2" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
           </span>
           </div>
         </span>
       </article>
+      </section>
       {/* <MoneyModule /> */} 
       <FooterArticle /> 
     </>
