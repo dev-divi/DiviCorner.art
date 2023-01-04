@@ -235,6 +235,12 @@ text-decoration: none;
 
 }
 
+.open-book button {
+    padding-top: 4px;
+    font-size: 2rem;
+    min-width:450px; /* TEMPERMENTAL EXPERIMENTAL */ /* 450 px */ 
+    min-height: 60px; /* TEMPERMENTAL EXPERIMENTAL */   
+}
 /*** MEDIA QUERIES ***/
 @media only screen and ( min-width: 50em ) {
 
@@ -384,16 +390,10 @@ text-decoration: none;
     .open-book button { /* media queries */ 
         padding-top: 4px;
         font-size: 2rem;
-        min-width:50vmax; /* TEMPERMENTAL EXPERIMENTAL */ /* 450 px */ 
+        min-width:30vmax; /* TEMPERMENTAL EXPERIMENTAL */ /* 450 px */ 
         min-height: 60px; /* TEMPERMENTAL EXPERIMENTAL */   
     }
 
-}
-.open-book button {
-    padding-top: 4px;
-    font-size: 2rem;
-    min-width:450px; /* TEMPERMENTAL EXPERIMENTAL */ /* 450 px */ 
-    min-height: 60px; /* TEMPERMENTAL EXPERIMENTAL */   
 }
 /*
 html,
