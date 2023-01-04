@@ -54,6 +54,10 @@
   margin-bottom:35px !important; /* MANUALLY SET MARGIN HERE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 
 }
+
+.divi-button {
+  min-width: 300px;
+}
 /*
 
 /*

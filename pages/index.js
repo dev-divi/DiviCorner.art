@@ -33,7 +33,7 @@ const AllTexts = ({ allPostsData }) => {
                             {/*<Image width={30} height={33} src={Coin} alt="coin"/> */}
                         &nbsp; 
 
-                        <button className="divi-button">
+                        <button className="utilStyles.divi-button">
                             <Link href={`/texts/${id}`}>
                             <a className="divi-button"> {title} </a> 
                             </Link> 
