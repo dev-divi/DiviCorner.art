@@ -383,7 +383,7 @@ text-decoration: none;
 }
 .open-book button {
     padding-top: 4px;
-    font-size: 36px;
+    font-size: 2rem;
     min-width: 450px;
     min-height: 60px;    
 }
