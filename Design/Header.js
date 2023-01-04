@@ -1,16 +1,11 @@
 import Head from 'next/head'
-import Link from 'next/link'
+//import Link from 'next/link'
 import Layout, { siteTitle, name } from './Layout'
-import styles from '../styles/Home.module.css'
-import Image from 'next/image'
+//import styles from '../styles/Home.module.css'
+//import Image from 'next/image'
 import utilStyles from '../styles/utils.module.css'
-import button1 from '../public/button1.png';
-
-import button2 from '../public/button2.png';
-
-import button3 from '../public/button3.png';
 import React from "react";
-import ReactDOM from "react-dom";
+//import ReactDOM from "react-dom";
 import "98.css"; 
 
 const NavBar = () => {

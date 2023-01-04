@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-import Footer from "../Design/Footer";
+//import Footer from "../Design/Footer";
 import AboutInfo from "./MainAbout/AboutInfo"
 import SiteSocial from './MainAbout/AboutSocial';
 import AboutProjects from './MainAbout/AboutProjects';

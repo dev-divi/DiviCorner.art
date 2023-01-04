@@ -47,7 +47,7 @@ const AboutInfo = () => {
             
             
                 unlike abstract philosophy that can be difficult or confusing to adapt to the world you live in. 
-            */ }
+           
 
             <p> <br /> 
             Join the email list to be notified of new works. </p>
@@ -55,6 +55,7 @@ const AboutInfo = () => {
             <SimpleForm /> 
             <br />
             <br /> 
+             */ }
                 Support my ability to further explore the secrets of accessing focused creative energy and share secrets with all 
                 by donating to my ethereum or bitcoin addresses. I can change the world with your help. 
 <br /> 
