@@ -1,10 +1,8 @@
-# 0xDivi.art
+# DiviCorner.art
 
 # TBA 
-a
-Add [Home], [All Texts] to footer of posts located at /pages/texts/[id].js
 
-underline the page on /alltexts  
+//
 
 # ###########
 
