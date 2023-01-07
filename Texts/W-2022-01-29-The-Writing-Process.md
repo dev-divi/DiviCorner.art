@@ -4,26 +4,33 @@ title: "The Writing Process"
 date: "2022-01-29"
 ---
 
-Below these explanations is a sample process of writing from today.  
-
-This process is invaluable to my life. There are days that strokes of great insight are found directly on the page,  
+This writing process is invaluable to my life. There are days that strokes of great insight are found directly on the page,   
 and other days like today in which little fruit is born on the page itself, but wherein wheels of cognition once rusted shut begin to turn on a dormant system in my brain, forced 
-to spin on their own, like the starting ignition of the engine of the car or chainsaw. After a long duration of this practice I have been able to tap into access of the creative flow, 
-a state that is felt by my entire perception of being, my entire world. There is no other state I would rather feel than the creative flow, and it can be accompanied by states of 
-great presence, awareness, love, peace, and other states simultaneously. To me, creative flow feels like bathing in golden light, and feels infinitely connected to the real me, whereever he is.  
-After this engine has started, it is often a few hours before I am struck by lightning, as an expanded awareness hits me and I am able to access advanced cognition, from which I can see 
-possibilities and options and choices I did not have access to before. This process has been adapted by Julia Cameron's "The Artists Way". 
+to spin on their own, like the starting ignition of the engine of the car or chainsaw.   
 
-While my goal is '3 pages', there are days I face extreme resistance and no fruitful writing from writing that duration, the entire point of meditating on creative flow is destroyed by the act of trying to get the goal done. When this is the case, I often find myself checking other notifications and messages and destroy the process entirely.  
+After a long duration of this practice I have been able to tap into access of the creative flow, 
+a state that is felt by my entire perception of being, my entire world. There is no other state I would rather feel than the creative flow, and it can be accompanied by states of 
+great presence, awareness, love, peace, and other states simultaneously. 
+
+To me, creative flow feels like bathing in golden light, and feels infinitely connected to the real me, whereever he is.  
+
+After this engine has started, it is often a few hours before I am struck by lightning, as an expanded awareness hits me and I am able to access advanced cognition, from which I can see 
+possibilities and options and choices I did not have access to before. This process has been adapted by Julia Cameron's "The Artists Way".  
+
+While my goal is '3 pages', there are days I face extreme resistance and no fruitful writing from writing that duration, the entire point of meditating on creative flow is destroyed by the act of trying to get the goal done. When this is the case, I often find myself checking other notifications and messages and destroy the process entirely.   
+
 When this is the case, I now start a stopwatch instead of going for duration. This allows me to write without the pressure to perform, which is the entire point of the process. The pressure to perform is what prevents the access to creative flow. It is only when it is removed that it is accessible, that I can access it.   
-I find the stopwatch more effective than the timer, but if I do not want to even risk pulling out my phone for a timer in case end up distracted, checking my messages, trying to get an early dopamine hit, 
-then looking at a clock as a timer is more than sufficient. I am thinking about ordering a desk stopwatch + timer at this time of writing.  
+
+I find the stopwatch more effective than the timer, but if I do not want to even risk pulling out my phone for a timer in case end up distracted, checking my messages, trying to get an early dopamine hit,  
+then looking at a clock as a timer is more than sufficient. 
+
 With the timer, I am able to meditate on my breath or presence while writing, which is usually when I can find myself experiencing the creative flow. I started writing only on the computer, telling myself that because I had a lot to write, I ought to write on the keyboard because I can write more and catch more thoughts. I was wrong about this belief. I gain far more clarity and insight through writing with ink on physical paper. I am able to get lost in the feeling of ink as well. Today I ran out of paper, so here I am writing on the site. I will likely take a piece of paper and write on it just to experience the somatic experience.  
 
-As I have been on this practice for a year, I have started to realize that perhaps *I don't even need to actually transcribe words onto the page*, I can actually just move my pen while thinking and telling my brain that I am writing, and it believes me. I have also started to experiment with writing **only** the first letter of each word onto a page, but the amount of cognition it requires to think about the first letter currently takes more time than it does to just write out the word.  
-I recently reencountered an article that must have been where I first learned of The Artists Way, titled [Writing at the Stream of the Unconscious](https://www.creativitypost.com/create/writing_at_the_speed_of_the_unconscious). While I do not see a method here to write at the stream of unconscious, I am now wondering if I can create such a method. I will be experimenting with this. 
+As I have been on this practice for a year, I have started to realize that perhaps *I don't even need to actually transcribe words onto the page*, I can actually just move my pen while thinking and telling my brain that I am writing, and it believes me. I have also started to experiment with writing **only** the first letter of each word onto a page, but the amount of cognition it requires to think about the first letter currently takes more time than it does to just write out the word.
 
+I recently reencountered an article that must have been where I first learned of The Artists Way, titled [Writing at the Stream of the Unconscious](https://www.creativitypost.com/create/writing_at_the_speed_of_the_unconscious). While I do not see a method here to write at the stream of unconscious, I am now wondering if I can create such a method. I will be experimenting with this.  
 
+<!-- 
 # Start 
 
 _What is this I am feeling as I am here without the physical paper, what should I do  
@@ -116,3 +123,5 @@ The water in Air
 I Am the Water in Air    
 I Am the Spirit of the Wind, I carry the water    
 I Am a Water Bearer._
+
+-->

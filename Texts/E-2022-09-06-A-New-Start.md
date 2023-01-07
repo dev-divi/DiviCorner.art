@@ -6,27 +6,29 @@ sort: "E"
 date: "2022-09-06"
 ---
 
-The deeper I go into silence, the more weight I feel on speaking
+The deeper I go into silence, the more weight I feel on speaking. 
 
-I changed
+I changed -
 
-I found myself as a being
+I found myself as a being - 
 
-And found that humanity is just a dress
+And found that humanity is just a dress - 
 
-And I'd like to write about it
+And I'd like to write about it -
 
-But I haven't had so much time
+But I haven't had so much time. 
 
-I have 3 articles posted soon
+---
 
-My content is changing
+I have articles posted soon - 
 
-Along with my direction
+My content is changing - 
 
-And intentions
+Along with my direction -
 
-And love
+And intentions -
+
+And love. 
 
 ---
 
@@ -39,13 +41,13 @@ I am in a great war.
 
 ---
 
-The war is for individuality, imagination, independence and original thought
+The war is for individuality, imagination, independence and original thought.
 
 I came so close to losing it, 
 I might even have lost it. 
 
 But I have gained more clarity now than simply, 
-"World is ignorant and unconscious" 
+"the world is ignorant and unconscious". 
 
 ---
 
@@ -68,9 +70,9 @@ This does not mean the surface level, "I don't care what you think",
 
 It means standing on wisdom and truth that can be stood upon, 
 
-And not compromising, 
+And not compromising. 
 
--
+---
 
 It is a different game because it is not the old game. 
 
@@ -80,13 +82,15 @@ The new game is knowing what is real, and staying connected to what is real,
 
 and destroying what is false. 
 
--
+---
 
 The element required is a trust and I will gain this trust.
 
-It sounds like this is an intellectual decision but the reality is it is a decision to continue to move deeper into the love that is in my heart and put it above any other.
+It sounds like this is an intellectual decision, but the reality is it is a decision to continue to move deeper into the love that is in my heart and put it above any other.
 
-The wisdom of the heart says that there is no voice louder than silence
+The wisdom of the heart says that there is no voice louder than silence.
+
+---
 
 I'm going to be writing about how the flow state pertains to consciousness,
 
@@ -94,4 +98,4 @@ the future of this phenomenon,
 
 how we can bring flow into reality, 
 
-and also about what I see as the ultimate meditation
+and also about what I see as the ultimate meditation.
