@@ -6,8 +6,9 @@ sort: "A"
 date: "2022-11-25"
 ---
 
-Far better it be to make others feel safe and comforted, 
-Then to make oneself feel powerful and in control 
+<!--
+Far better it be to make others feel safe and comforted,  
+Then to make oneself feel powerful and in control. 
 
 How much better it is to hold a person's trust than it is to hold a body
 [11:41 PM]The Blessed 🧞✨: This is to say 
@@ -38,17 +39,20 @@ Then I played Persona 5, it seems Persona 5 understands something about winning 
 
 There's certainly an understanding of beauty here when one comprehends the value of accumulating
  this kind of treasure
-[11:48 PM]The Blessed 🧞✨: On a related note, 
-If you have not pursued mindfulness, 
-You should and you should make it an active daily part of your life. 
+[11:48 PM]The Blessed 🧞✨: 
+On a related note,
+-->   
+If you have not pursued mindfulness,   
+You could and you should make it an active daily part of your life.    
 
-It makes every part of your life better. 
-In my case, 
-It has just brought me back, 
-To when my life is in complete flow and I am totally thriving
-[11:48 PM]The Blessed 🧞✨: This time I've had time to analyze what exactly does it mean when I am totally driving
-[11:49 PM]The Blessed 🧞✨: Thriving
-[11:49 PM]The Blessed 🧞✨: It means that my cup is overflowing in my soul 
+It makes every part of your life better.  
+In my case,  
+It has just brought me back,  
+To when my life is in complete flow and I am totally thriving.  
+
+ This time I've had time to analyze what exactly does it mean when I am totally thriving.  
+
+It means that my cup is overflowing in my soul. 
 
 I don't feel incredible or great, 
 I feel overwhelmingly incredible, 

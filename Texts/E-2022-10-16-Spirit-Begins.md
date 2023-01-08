@@ -6,31 +6,32 @@ sort: "E"
 date: "2022-10-16"
 ---
 
-I experienced the human spirit breaking out, 
-Crying out,
-It was screaming wake up wake up
-I don't know if this means that we really are in a dream 
-That this was only possible because this woman has her focus on this, 
-Because she's crying out for it earnestly, 
-Because she has taken what is pure in her heart and screamed out to let it out, passed her flesh and her self
-[4:08 PM]The Blessed 🧞✨: And I find that once again, surely there was no person in me
-Surely I was only full of desires, 
-And when all those desires are gone,
-There's no one left. 
+I experienced the human spirit breaking out,  
+Crying out,  
+It was screaming 'wake up, wake up'  
+I don't know if this means that we really are in a dream,   
+That this was only possible because this woman has her focus on this,  
+Because she's crying out for it earnestly,  
+Because she has taken what is pure in her heart and screamed out to let it out, passed her flesh and her self -  
 
-And the days before were torturous. 
-The light of others filled my soul, 
-But I was trapped in a purgatory of comfort from their light
-And yet wanting more
-Wanting to be closer to them
-Wanting to not be separate from them  
-Especially women 
-And now here is this woman
-Her image to me is perfection 
-Both in physical and spiritual beauty
+And I find that once again, surely there was no person in me  
+Surely I was only full of desires,  
+And when all those desires are gone,  
+There's no one left.   
 
-I have never seen a woman more connected to white light
-I could even see that she was praying for my spirit to break out
+And the days before were torturous.  
+The light of others filled my soul,  
+but I was trapped in a purgatory of comfort from their light -  
+And yet wanting more,
+Wanting to be closer to them,
+Wanting to not be separate from them,
+
+And now here is this woman -  
+Her image to me is perfection -   
+Both in physical and spiritual beauty.
+
+I have never seen a woman more connected to white light,  
+I could even see that she was praying for my spirit to break out.
 
 I could see that she sees my spirit as well. 
 
