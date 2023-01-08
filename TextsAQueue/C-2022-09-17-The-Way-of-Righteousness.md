@@ -6,53 +6,46 @@ sort: "C"
 date: "2022-09-17"
 ---
 
-A new commandment I give to you, that you will love one another;
-as I have loved you, 
-that you also love one another. 
-By this all will know that you are My disciples, 
-if you have love for one another. 
-[12:05 AM]The Blessed 🧞✨: -
-[12:06 AM]The Blessed 🧞✨: If you abide in Me, and My words abide in you, 
-you will ask what you desire, 
-and it shall be done for you.
-By this My Father is glorified, 
-that you bear much fruit; so you will be my disciples.
-[12:35 AM]The Blessed 🧞✨: Just reread proverbs and paying attention to the word "way" 
+> A new commandment I give to you, that you will love one another;  
+as I have loved you,  
+that you also love one another.  
+By this all will know that you are My disciples,  
+if you have love for one another.   
 
-Proverbs 8:2
-"Wisdom..takes her stand..Beside the way..where the paths meet."
 
-Proverbs 8:38 "Blessed are those who keep my ways." 
+> If you abide in Me, and My words abide in you,  
+you will ask what you desire,   
+and it shall be done for you.  
+By this My Father is glorified,  
+that you bear much fruit; so you will be my disciples.  
 
-Proverbs 11:28
-"But the blameless in their ways are His delight" 
 
-Proverbs 12:28
-"In the way of righteousness is life, And in its pathway there is no death. 
+I reread Proverbs and was paying attention to the word "way",
 
-Proverbs 13:6
-"Righteousness guards him whose way is blameless." 
+> Proverbs 8:2 "Wisdom..takes her stand..Beside the way..where the paths meet."  
 
-Proverbs 15:19
-"The way of the upright is a highway." 
+>  8:38 "Blessed are those who keep my ways." 
 
-Proverbs 15:24
-"The way of life winds upward for the wise, that he may turn away from hell below." 
+>  11:28 "But the blameless in their ways are His delight" 
 
-16:7 
-"When a man's ways please the Lord, He makes even his enemies to be at peace with him."
+>  12:28 "In the way of righteousness is life, And in its pathway there is no death. 
 
-16:9
-"A man's heart plans his way, but (God) directs his steps."
+>  13:6 "Righteousness guards him whose way is blameless." 
 
-16:17
-"The highway of the upright is to depart from evil; 
+>  15:19 "The way of the upright is a highway." 
+
+>  15:24 "The way of life winds upward for the wise, that he may turn away from hell below." 
+
+>  16:7 "When a man's ways please the Lord, He makes even his enemies to be at peace with him."
+
+>  16:9 "A man's heart plans his way, but (God) directs his steps."
+
+> 16:17 "The highway of the upright is to depart from evil;  
 He who keeps his way preserves his soul." 
 
-19:3 
-"The foolishness of a man twists his way, and his heart frets against (God)" 
-[12:45 AM]The Blessed 🧞✨: 19:16
-"He who keeps the commandments keeps his own soul, but he who is careless(literally despises) of his ways will die."
+> 19:3  "The foolishness of a man twists his way, and his heart frets against (God)" 
+
+> 19:16 "He who keeps the commandments keeps his own soul, but he who is careless(literally despises) of his ways will die."
 [12:50 AM]The Blessed 🧞✨: 21:16
 "He who wanders from the way of understanding 
 Will rest in the assembly of the dead."
