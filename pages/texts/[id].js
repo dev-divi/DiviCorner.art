@@ -4,11 +4,11 @@
 
 import { getAllPostIds, getPostData } from '/library_system/texts'
 import Head from 'next/head'
-import Layout from '/Design/Layout'
+//import Layout from '/Design/Layout'
 import utilStyles from '/styles/utils.module.css'
 import Date from '/library_system/date';
 
-import FooterArticle from '../../Design/FooterArticle';
+//import FooterArticle from '../../Design/FooterArticle';
 //import MoneyModule from '../MainMoney/MoneyModule';
 
 export default function Post({ postData }) {
@@ -33,8 +33,8 @@ export default function Post({ postData }) {
         </span>
       </article>
       </section>
-      {/* <MoneyModule /> */} 
-      <FooterArticle /> 
+      {/* <MoneyModule /> <FooterArticle />  */} 
+      
     </>
   )
 }

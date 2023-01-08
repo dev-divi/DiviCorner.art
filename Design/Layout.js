@@ -22,8 +22,9 @@ const Layout = ( { children } ) => {
                         <h6> </h6>
                     </header>
                     <article>
-                        <h2 className="chapter-title">Divi&apos;s Corner</h2>
-
+                    <Link href="/" className="open-book "> 
+                        <h2 className="chapter-title"> Divi&apos;s Corner</h2>
+                    </Link>
                         { children }
                     </article>
 

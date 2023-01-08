@@ -1,6 +1,6 @@
 import styles from '../styles/layout.module.css';
 import Link from 'next/link'
-import utilStyles from '../styles/utils.module.css'
+//import utilStyles from '../styles/utils.module.css'
 import '98.css';
 const FooterArticle = () => {
     return ( 
