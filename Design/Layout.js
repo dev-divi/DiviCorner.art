@@ -27,7 +27,7 @@ const Layout = ( { children } ) => {
                     </header>
                     <article>
                     <Link href="/" className="open-book "> 
-                        <h2 className="chapter-title"> Divi&apos;s Corner <Image width={40} height={40} src={Ring} alt="ring"/> 
+                        <h2 className="chapter-title"> Divi&apos;s Corner <Image width={30} height={30} src={Ring} alt="ring"/> 
 </h2> 
 
                     </Link>
