@@ -14,10 +14,11 @@ body {
     background-image: url(./style_images/moonsun.jpg);
     /*     background-image: url(./style_images/stars.webp);
 */ 
+    
     background-repeat: no-repeat;
     background-size:100%;
     color: #e5e5e5;
-    
+    color: #1d1f20;
     font: 16px/1.25 'Crimson Text', sans-serif;
     margin: 0;
 }
@@ -39,11 +40,13 @@ body {
 /*** OPEN BOOK ***/
 .open-book {
     background: #1d1f20;
-    background-image: url(./style_images/paperdarkspacepagedarker.png);
+    background: #f9f7f4; 
+    /*background-image: url(./style_images/paperdarkspacepagedarker.png);*/
     background-size:50%;
 
     box-shadow: rgba(0,0,0,0.5) 0 1em 3em;
     color: white;
+    color: #1d1f20;
 
     padding: 2em;
     min-width: 500px; /* TEMPERMENTAL EXPERIMENTAL
@@ -113,6 +116,8 @@ body {
 .open-book .chapter-title:before,
 .open-book .chapter-title:after {
     border: solid 0 #FFFFFF;
+    border: solid 0 #1d1f20;
+
     border-width: 0.05em 0;
     bottom: calc((0.125em / 2) * 3);
     content: '';
@@ -229,6 +234,7 @@ text-decoration: none;
 
 .open-book dl {
     border: solid 0 #ccc;
+    
     border-width: 0.0625em 0;
     break-inside: avoid-column;
     margin: 1em auto;
