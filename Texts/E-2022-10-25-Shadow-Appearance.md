@@ -1,6 +1,6 @@
 ---
 category: "Experience" 
-title: "Celebration of Passion"
+title: "Shadow Appearance"
 sort: "E" 
 
 date: "2022-10-25"
@@ -27,3 +27,5 @@ that to go for this kind of power is to be led by fear.
 In my words, 
 To pursue power for self-protection, your master is fear.  
 You are serving a master, your master is fear.
+
+[I recommend choosing a different master!]
