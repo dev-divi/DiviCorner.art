@@ -118,6 +118,7 @@
   font-size: 0.8em;
 }
 */
+/*
 .superbuttonalt3{
   background-image: url("style_images/button2.png"); 
   border-radius: 77px;
@@ -171,7 +172,7 @@
 }
 .superbutton {
 
-  /*background-image: url("/public/button3.png"); */
+  /*background-image: url("/public/button3.png"); 
 
   
   background-color: #9b111e; 
@@ -222,7 +223,7 @@
   touch-action: manipulation;
   font-family:none 'Lora', serif;
   
-}
+}]*/
 /*
 .toppadding { 
   padding-top: 100px;
