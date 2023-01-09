@@ -6,8 +6,6 @@ sort: "A"
 date: "2022-11-30"
 ---
 
-He who has an ear, let him hear!
-
 This is the beginning of Isaiah 61. Isaiah 61 is one of the most revered prophesies in the church. 
 
 > The Spirit of the Lord God is upon Me,  
