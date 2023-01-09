@@ -20,16 +20,16 @@ const Layout = ( { children } ) => {
                     <header>
                         
                         <Link href="/" className="open-book ">
-                            <h1>DiviCorner.art <Image width={12} height={12} src={Ring} alt="ring"/> </h1> 
+                            <h1>DiviCorner.art </h1> 
                         </Link>
                               
                         <h6> </h6>
                     </header>
                     <article>
                     <Link href="/" className="open-book "> 
-                        <h2 className="chapter-title"> Divi&apos;s Corner</h2> 
-                        {/*                             <Image width={30} height={33} src={Ring} alt="ring"/> 
-*/}
+                        <h2 className="chapter-title"> Divi&apos;s Corner <Image width={40} height={40} src={Ring} alt="ring"/> 
+</h2> 
+
                     </Link>
                         { children }
                     </article>

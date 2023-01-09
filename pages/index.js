@@ -6,8 +6,8 @@ import Date from '/library_system/date';
 import '98.css';
 import Image from 'next/image'
 //import Coin from '../styles/style_images/coin.png'
-//import Ring from '../styles/style_images/ring.png'
-import Ring from '../styles/style_images/moonsunring.png'
+import Ring from '../styles/style_images/ring.png'
+//import Ring from '../styles/style_images/moonsunring.png'
 
 export async function getStaticProps() {
     const allPostsData = getSortedPostsData()
