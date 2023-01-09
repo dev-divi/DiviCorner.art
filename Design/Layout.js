@@ -5,6 +5,10 @@ import styles from '../styles/layout.module.css';
 export const siteTitle = 'Divi\'s Corner'
 export const name = 'Divi Corner'
 import Link from 'next/link'
+import Image from 'next/image'
+
+import Ring from '../styles/style_images/moonsunring.png'
+
 const Layout = ( { children } ) => {
     return ( 
         
@@ -16,14 +20,16 @@ const Layout = ( { children } ) => {
                     <header>
                         
                         <Link href="/" className="open-book ">
-                            <h1>DiviCorner.art</h1> 
+                            <h1>DiviCorner.art <Image width={12} height={12} src={Ring} alt="ring"/> </h1> 
                         </Link>
                               
                         <h6> </h6>
                     </header>
                     <article>
                     <Link href="/" className="open-book "> 
-                        <h2 className="chapter-title"> Divi&apos;s Corner</h2>
+                        <h2 className="chapter-title"> Divi&apos;s Corner</h2> 
+                        {/*                             <Image width={30} height={33} src={Ring} alt="ring"/> 
+*/}
                     </Link>
                         { children }
                     </article>
