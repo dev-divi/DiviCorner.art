@@ -57,7 +57,8 @@ So the Lord God will cause righteousness and praise to spring forth before all t
 So notice that by taking the action of rejoicing in [the god of goodness],  
 the result is being joyful [in rejoicing for that], 
 
-The result of rejoicing in this goodness also causes a coat of the identity of salvation, man who has salvation, what is salvation? Salvation is like being lifted from the low place up to first place, to be brought into singing. There is probably a more accurate answer than that.  
+The result of rejoicing in this goodness also causes a coat of the identity of salvation, man who has salvation, what is salvation?  
+Salvation is like being lifted from the low place up to first place, to be brought into singing.  
 He also gets a coat of righteousness.  
 
 Now, again he explains that to invoke this praise, this rejoicing,  

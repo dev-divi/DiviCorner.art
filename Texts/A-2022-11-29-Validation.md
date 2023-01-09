@@ -6,18 +6,18 @@ sort: "A"
 date: "2022-11-29"
 ---
 
-There are three kinds of validation I am aware of.
+There are three kinds of validation I am aware of.  
 
-All three kinds of validation reinforce your identity.
+All three kinds of validation reinforce your identity.  
 
-The first, external validation from those in your world, is simple.  
-Networking outside of your home base is essential, 
-but the more important critical key is this, call out the good in others, even if you don't see it.  
-There is no need to ever be against anyone.   
+The first, external validation from those in your world, is simple.   
+Networking outside of your home base is essential,  
+but the more important critical key is this, call out the good in others, even if you don't see it.   
+There is no need to ever be against anyone.    
 Anyone who comes against you,  
 You can wish them well.  
 
-This will cause others to also call out the good in you that you cannot see,  
+This will cause others to also call out the good in you that you cannot see,   
 And this will fulfill that external validation of positive identity.
 
 The second validation is of course role models, these are in short supply.  
@@ -28,18 +28,18 @@ The greater the skill in performing the role, the better the model of the role, 
 The third kind of validation is the same as the second.  
 The third kind of validation is validation from who you serve.  
 
-I will preface this by saying,
+I will preface this by saying,  
 there exists that which is worth serving.  
 
 There exists that which if you serve it becomes self-validating.  
 
 This is a form of love,  
 This is a form of loving devotion,   
-This is similar to falling in love.
+This is similar to falling in love.  
 
 This begins perhaps with the initial onset of the hunger for wisdom.   
 
-A key to how to know which identity you want to positively reinforce is simple.  
+A key to how to know which identity you want to positively reinforce is simple.   
 
 The identity you want is your real and authentic identity.  
 
@@ -48,10 +48,10 @@ and because it cannot see it does not know who you really are.
 
 The identity that the external world will by large reinforce is not a real and authentic you.  
 
-How interesting is it that when that which is authentic to your nature is positively validated, 
+How interesting is it that when that which is authentic to your nature is positively validated,  
 An electric resonance of gold vibrates out of your heart and throughout your being?  
-You have just tasted some spirit.  
-We can get into this deeply regarding how this is not simply a product of the brain as is a dopamine release or other positively reinforced behavior, but on track  
+You have just tasted some spirit.   
+We can get into this deeply regarding how this is not simply a product of the brain as is a dopamine release or other positively reinforced behavior, but on track   
 
 This third possible source of validation is explained throughout Proverbs,  
 > The fear of [God] is the beginning of knowledge, but fools despise wisdom and instruction".  
