@@ -45,9 +45,9 @@ const AllTexts = ({ allPostsData }) => {
                         </span>
                         
                         <small className={utilStyles.lightText}>
-                            <Date dateString={date} /> 
+                           {/*  <Date dateString={date} />  */}
                             &nbsp;-&nbsp; 
-                            {category} 
+                            {category} - 
 
                         </small>
                         <br /> <br/>
