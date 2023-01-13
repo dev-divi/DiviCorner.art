@@ -27,7 +27,7 @@ not to get something out,
 not to be grateful, 
 
 I am writing in order to enjoy the feeling of the ink rushing against the page,  
-and the state of mind that allows me to move forward with ease and clarity in flow. 
+and the state of mind that allows me to move forward with ease and clarity in flow.  
 
 And underneath those intentions, the desire for the feeling of the creative source,  
 that feeling that I want to live in, that my soul drinks and bathes in as a pool of Life and golden light. 

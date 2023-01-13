@@ -46,69 +46,75 @@ He who keeps his way preserves his soul."
 > 19:3  "The foolishness of a man twists his way, and his heart frets against (God)" 
 
 > 19:16 "He who keeps the commandments keeps his own soul, but he who is careless(literally despises) of his ways will die."
-[12:50 AM]The Blessed 🧞✨: 21:16
-"He who wanders from the way of understanding 
-Will rest in the assembly of the dead."
-[12:51 AM]The Blessed 🧞✨: 21:29 
-"A wicked man hardens his face,
-But as for the upright, he 
-establishes (or understands) his way.
-22:19 
-"Hear, my son, and be wise;
-And guide your heart in the way." 
 
-23:26
-"My son, give me your heart, 
-And let your eyes observe my ways." 
-[1:15 AM]The Blessed 🧞✨: 29:27 The last proverb of Solomon
-"an unjust man is an abomination to the righteous, 
-And he who is upright in the way 
-is an abomination to the wicked."
-[1:19 AM]The Blessed 🧞✨: 5:21 "The ways of man are before the eyes of (God), And He ponders all of his paths."
-[1:24 AM]The Blessed 🧞✨: I didn't include every verse, with all included I see a theme that says basically that following righteousness is a sort of unfolding hidden pathway that others cannot see, 
+> 21:16 "He who wanders from the way of understanding  
+Will rest in the assembly of the dead."  
+
+> 21:29 "A wicked man hardens his face,
+But as for the upright, he 
+establishes (or understands) his way.  
+
+> 22:19 "Hear, my son, and be wise;
+And guide your heart in the way."  
+
+> 23:26 "My son, give me your heart, 
+And let your eyes observe my ways."  
+
+> The last proverb of Solomon,  
+>  
+> "an unjust man is an abomination to the righteous,  
+> And he who is upright in the way   
+> is an abomination to the wicked."  
+
+> 5:21 "The ways of man are before the eyes of (God), And He ponders all of his paths."
+
+> I didn't include every verse, with all included I see a theme that says basically that following righteousness is a sort of unfolding hidden pathway that others cannot see, 
 in which by focusing on wisdom instead of what others are focusing on you gain the benefits of having wisdom and now the way becomes more clear and automatic and you are also gaining more wealth and wisdom as a result of the wisdom you are now acting out.
 
 --- Additional Scriptures 
 
-13:20
-He who walks with wise men will be wise,
-But the companion of fools will be destroyed.
-[1:29 AM]The Blessed 🧞✨: 18:21
-Death and life are in the power of the tongue, and those who love it will eat of its fruit
+> 13:20 "He who walks with wise men will be wise,
+But the companion of fools will be destroyed."
+
+> 18:21 "Death and life are in the power of the tongue, and those who love it will eat of its fruit."
+
 [I cannot help thinking of an earlier verse where he says, 
-"Divination is on the lips of the king" 
+
+> "Divination is on the lips of the king" 
 Which means to me, that the king who speaks life will create life in his kingdom, 
 His words will manifest life. 
 
-I believe the context of the associated verses around this back me up on this meaning.
-[1:31 AM]The Blessed 🧞✨: 17:8 
-"A present is a precious stone in the eyes of it's oppressor. Wherever he turns, he prospers."
+> I believe the context of the associated verses around this back me up on this meaning.
+
+> "A present is a precious stone in the eyes of it's oppressor. Wherever he turns, he prospers."
 
 I cannot help wanting to switch present with "presence", 
 His presence causing him to prosper wherever he turns
 
 -- Additional Reading, Finances 
 
-[1:32 AM]The Blessed 🧞✨: A few financial proverbs 
-[1:33 AM]The Blessed 🧞✨: the person who oppresses the poor to increase his riches, 
-as well as the person who gives money to the rich, will come to poverty.
-[1:35 AM]The Blessed 🧞✨: When you are sit down to eat with a ruler..
-Do not desire his delicacies, they are deceptive food.
+A few financial Proverbs, 
 
-Do not overwork to be rich, 
-because of (your limited understanding?), stop! 
+> "The person who oppresses the poor to increase his riches,  
+as well as the person who gives money to the rich, will come to poverty.  
 
-Why would you set your eyes on that which is not (the riches you wish you had do not exist!) 
+> "When you are sit down to eat with a ruler..  
+Do not desire his delicacies, they are deceptive food."
 
-Riches certainly make themselves wings(💸💸💸💸) 
-They fly away like an eagle toward heaven. 
-[1:38 AM]The Blessed 🧞✨: -
+> "Do not overwork to be rich,    
+because of (your limited understanding?), stop!"  
+
+> "Why would you set your eyes on that which is not (the riches you wish you had do not exist!)"  
+
+> "Riches certainly make themselves wings(💸💸💸💸)  
+They fly away like an eagle toward heaven."   
+
 A verse I will compare to Christ's words
-25:21
-"If your enemy is hungry, give him bread to eat; 
-if he is thirsty, give him water to drink. "
+
+> "25:21 "If your enemy is hungry, give him bread to eat;  
+if he is thirsty, give him water to drink. "  
+
 (Then it basically says he will be hurt by this and you will be rewarded by this)
-[1:39 AM]The Blessed 🧞✨: -
-27:2 
-"Let another man praise you, and not your own mouth;
+
+> 27:2 "Let another man praise you, and not your own mouth;
 A stranger; and not your own lips." 

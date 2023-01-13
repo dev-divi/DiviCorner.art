@@ -54,21 +54,21 @@ The power of decision and choice is limited, we change, we don't have full contr
 we don't have full awareness of the best options.
 
 
-If you notice, we actively seek goodness -
+If you notice, we actively seek goodness -  
 
-we chase goodness -
+we chase goodness -  
 
-pleasure sex success wealth -
+pleasure sex success wealth -  
 
 all of these are of good and we want them.
 
-There may be yin and yang - 
+There may be yin and yang -  
 
-but we are pulled towards the sun - 
+but we are pulled towards the sun -  
 
-actively pulled -
+actively pulled -  
 
-the active force is pulling us -
+the active force is pulling us -  
 
 the active self is chasing spirit.
 

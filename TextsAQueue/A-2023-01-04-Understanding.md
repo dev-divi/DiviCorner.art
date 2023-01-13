@@ -1,37 +1,66 @@
 
-[3:56 AM]The Blessed 🧞✨: "If you don't die before you die, you won't die when you die." 
-Osho would have said, 
-this is because you can't die if you never lived
-[3:58 AM]The Blessed 🧞✨: what it says in that video is the truth
-[3:59 AM]The Blessed 🧞✨: the person I was before a near-death or death experience.. 
-I believed I was me.
-[3:59 AM]The Blessed 🧞✨: I did not know who I was, not even 1%
-[4:01 AM]The Blessed 🧞✨: I don't know if others would agree with me or if they've thought about this long enough
-[4:01 AM]The Blessed 🧞✨: but how do I say this, you know how "other people don't know who you really are"
-[4:01 AM]The Blessed 🧞✨: that you that you "really are" isn't you, your potential self, it isn't you, 
-it's the same potential self that is humanity
-[4:02 AM]The Blessed 🧞✨: the way I see it is it's actually one being
-[4:02 AM]The Blessed 🧞✨: one human being
-[4:02 AM]The Blessed 🧞✨: with the same personality
-[4:02 AM]The Blessed 🧞✨: the same mind
-[4:03 AM]The Blessed 🧞✨: not a whole bunch of minds all together to form a supercomputer or something
-[4:03 AM]The Blessed 🧞✨: it's just the same real self
+> "If you don't die before you die, you won't die when you die." 
 
-[4:04 AM]The Blessed 🧞✨: the authentic self is the same real self that manifests itself out of us when we aren't trying to be who we think we are
-[4:04 AM]The Blessed 🧞✨: that's the reason you won't die when you die, 
-because your limited self isn't who you are
-[4:04 AM]The Blessed 🧞✨: and if you never taste who you are
-[4:05 AM]The Blessed 🧞✨: then you don't come to know that you aren't something that lives or dies
-[4:06 AM]The Blessed 🧞✨: this is why the zen masters don't try to do anything
-[4:06 AM]The Blessed 🧞✨: because there isn't anything to do
-[4:06 AM]The Blessed 🧞✨: because the real self is fine
-[4:07 AM]The Blessed 🧞✨: because basically if you look at the timeline
-[4:07 AM]The Blessed 🧞✨: there is a period of time where mankind's heart is closed
-[4:07 AM]The Blessed 🧞✨: but it will inevitably open, that's what it does
-[4:07 AM]The Blessed 🧞✨: just like breathing happens in and out
-[4:08 AM]The Blessed 🧞✨: it closes for a while, it will open later
-[4:08 AM]The Blessed 🧞✨: as long as you have some will you can close it
-[4:08 AM]The Blessed 🧞✨: but limited will is temporary, it can't hold its strength for all that long
+A master would have said,  
+this is because you can't die if you never lived.  
+
+What it says in [this video]() is the truth
+
+The person I was before a near-death or death experience..   
+I believed I was me.  
+
+I did not know who I was, not even 1%  
+
+I don't know if others would agree with me or if they've thought about this long enough  
+
+but how do I say this, you know how "other people don't know who you really are"
+
+that you that you "really are" isn't you, your potential self, it isn't you,
+
+it's the same potential self that is humanity
+
+the way I see it is it's actually one being
+
+one human being
+
+with the same personality
+
+the same mind
+
+not a whole bunch of minds all together to form a supercomputer or something
+
+it's just the same real self
+
+---
+
+the authentic self is the same real self that manifests itself out of us when we aren't trying to be who we think we are
+
+that's the reason you won't die when you die,   
+because your limited self isn't who you are,  
+
+and if you never taste who you are
+
+then you don't come to know that you aren't something that lives or dies  
+
+this is why the zen masters don't try to do anything  
+
+because there isn't anything to do
+
+because the real self is fine
+
+because basically if you look at the timeline
+
+there is a period of time where mankind's heart is closed
+
+but it will inevitably open, that's what it does
+
+just like breathing happens in and out
+
+it closes for a while, it will open later
+
+as long as you have some will you can close it
+
+but limited will is temporary, it can't hold its strength for all that long
 [4:09 AM]The Blessed 🧞✨: the reason why we participate in goodness
 [4:09 AM]The Blessed 🧞✨: is to reduce the amount of suffering during that process
 [4:09 AM]The Blessed 🧞✨: this is the same reason as why increasing suffering for spiritual gain is insane
