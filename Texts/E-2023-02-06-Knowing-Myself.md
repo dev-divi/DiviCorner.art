@@ -1,3 +1,10 @@
+---
+category: "Spirituality" 
+title: "Knowing Myself"
+sort: "E" 
+
+date: "2023-02-06"
+---
 I thought I had lost my motivation due to having some rest and stillness in my new place, that a lack of motivation was causing me to stay still.   
 I now see that this was an inaccurate conclusion.   
 
