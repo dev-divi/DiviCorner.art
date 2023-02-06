@@ -1,6 +1,6 @@
 ---
 category: "Core Christ" 
-sort: "D" 
+sort: "C" 
 title: "Mystic Principle" 
 date: "2022-03-16"
 ---

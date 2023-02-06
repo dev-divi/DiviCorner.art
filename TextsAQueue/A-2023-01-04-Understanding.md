@@ -9,14 +9,11 @@ What it says in [this video]() is the truth
 The person I was before a near-death or death experience..   
 I believed I was me.  
 
-I did not know who I was, not even 1%  
+I did not know who I was, not even 1%.  
 
-I don't know if others would agree with me or if they've thought about this long enough  
-
-but how do I say this, you know how "other people don't know who you really are"
-
-that you that you "really are" isn't you, your potential self, it isn't you,
-
+You know how "other people don't know who you really are"? 
+That you that you "really are" is not you. 
+Your potential self, it isn't you,  
 it's the same potential self that is humanity
 
 the way I see it is it's actually one being
